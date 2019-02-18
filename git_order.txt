@@ -1,0 +1,12 @@
+(檔案狀態)git status 
+
+(新增檔案) git add (檔名)  + (註解) git commit -m "註解"  = 上傳到github
+
+(目錄)dir
+
+(上傳github)git push
+
+(下載下來)git clone+githuburl
+
+找不到路徑時快速指令如下：
+git init 

@@ -1,10 +1,24 @@
 # -*- coding: utf-8 -*-
+import json
+import re
+import requests
+from bs4 import BeautifulSoup
 """
 Created on Sat Feb 16 21:58:01 2019
 
 @author: tomto
 """
 
+def get_web_page(url):
+    resp = requests.get(
+        url=url,
+    )
+    if resp.status_code != 200:
+        print ('Invalid url:', resp.url)
+        return None
+    else:
+        return resp.text
+    
 def get_movie_id(url):
     try:
         movie_id=url.split('.html')[1].split('-')[-1]
@@ -29,7 +43,6 @@ def get_movies(dom):
     soup = BeautifulSoup(dom,'html5lib')
     movies=[]#新增陣列存Dictionary
     rows=soup.find_all('div','release_info_text')
-    
     for row in rows:
         movie=dict()#空的Dictionary
         movie['expectation'] = row.find('div','leveltext').span.text.strip()
@@ -65,6 +78,9 @@ def get_movies(dom):
 page = get_web_page('https://movies.yahoo.com.tw/movie_thisweek.html')
 if page:
     movies=get_movies(page)
+    
+
+
     for movie in movies:
         print(movies)
     with open('movie.json','w',encoding='utf-8') as f:

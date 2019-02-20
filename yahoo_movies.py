@@ -14,7 +14,6 @@ def get_web_page(url):
         url=url,
     )
     if resp.status_code != 200:
-        print ('Invalid url:', resp.url)
         return None
     else:
         return resp.text
@@ -22,8 +21,6 @@ def get_web_page(url):
 def get_movie_id(url):
     try:
         movie_id=url.split('.html')[1].split('-')[-1]
-        print(movie_id)
-
     except:
         movie_id=url   
 
@@ -39,7 +36,6 @@ def get_date(date_str):
         return match.group(0)
     
 def get_movies(dom):
-    
     soup = BeautifulSoup(dom,'html5lib')
     movies=[]#新增陣列存Dictionary
     rows=soup.find_all('div','release_info_text')
@@ -59,11 +55,11 @@ def get_movies(dom):
 #b a a a a
 #b b a a a
 #b b b a a
-        movie['intro']=row.find('div','release_text').text.replace(u'詳全文','').strip()#u/U:表示unicode字符串 
+        movie['intro']=row.find('div','release_text').text.replace(u'\xa0', ' ').strip()#u/U:表示unicode字符串 ,\xa0為iso編碼不屬於unicode所以要剃除 網址:https://blog.csdn.net/IAlexanderI/article/details/79455027
         trailer_a=row.find_next_sibling('div','release_btn color_btnbox').find_all('a')[1]#next_sibling 應該是下一個類別 網址:https://blog.csdn.net/Winterto1990/article/details/47794941
-        movie['trailer_url']=trailer_a['href'] if 'href' in trailer_a.attrs else'無'
+        movie['trailer_url']=trailer_a['href'] if 'href' in trailer_a.attrs else'無預告片'
         movies.append(movie)
-        return movies
+    return movies
     
 #attrs
 #可以搜尋指定屬性的值
@@ -77,14 +73,12 @@ def get_movies(dom):
 
 page = get_web_page('https://movies.yahoo.com.tw/movie_thisweek.html')
 if page:
+ 
     movies=get_movies(page)
-    
-
-
     for movie in movies:
         print(movies)
     with open('movie.json','w',encoding='utf-8') as f:
-        json.dump(movie, f ,indent=2, sort_keys=True, ensure_ascii=False)
+        json.dump(movies, f ,indent=2, sort_keys=True, ensure_ascii=False)
         
         
         

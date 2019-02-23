@@ -1,14 +1,18 @@
-(ÀÉ®×ª¬ºA)git status 
+(æª”æ¡ˆç‹€æ…‹)git status 
 
-(·s¼WÀÉ®×) git add (ÀÉ¦W)  + (µù¸Ñ) git commit -m "µù¸Ñ"  = ¤W¶Ç¨ìgithub
+(æ–°å¢æª”æ¡ˆ) git add (æª”å)  + (è¨»è§£) git commit -m "è¨»è§£"  = ä¸Šå‚³åˆ°github
 
-(¥Ø¿ı)dir
+(ç›®éŒ„)dir
 
-(¤W¶Çgithub)git push
+(ä¸Šå‚³github)git push
 
-(¤U¸ü¤U¨Ó)git clone+githuburl
+(ä¸‹è¼‰ä¸‹ä¾†)git clone+githuburl
 
-§ä¤£¨ì¸ô®|®É§Ö³t«ü¥O¦p¤U¡G
+æ‰¾ä¸åˆ°è·¯å¾‘æ™‚å¿«é€ŸæŒ‡ä»¤å¦‚ä¸‹ï¼š
 git init 
 
-¤ÁD¼Ñcd /d d:\
+åˆ‡Dæ§½cd /d d:\
+
+ç¯„ä¾‹æŸ¥çœ‹serverç‹€æ…‹ 200 403 503
+r = requests.get('https://tw.appledaily.com/hot/daily')
+print(dom.status_code)

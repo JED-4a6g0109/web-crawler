@@ -1,17 +1,20 @@
+import requests
+import re
+from bs4 import BeautifulSoup
 # -*- coding: utf-8 -*-
 """
 Created on Fri Feb 22 21:26:45 2019
 
 @author: tomto
 """
-import requests
-import re
-from bs4 import BeautifulSoup
 
+    
 resp=requests.get('https://www.dcard.tw/f')
+print(resp.status_code)#查看server狀態 503無法解決
+
 soup=BeautifulSoup(resp.text,'html.parser')
 articles=[]
-for div in soup.find_all('div',re.compile('PostEntry_content_\w{6}')):#re用法 網址:http://www.runoob.com/python3/python3-reg-expressions.html
+for div in soup.find_all('div',re.compile('PostEntry_content_\w{5}')):#re用法 網址:http://www.runoob.com/python3/python3-reg-expressions.html
     articles.append({
             'title':div.h3.text.strip(),
             'excerpt':div.find_all('div')[0].text.strip(),#摘要為PostEntry_content_g2afgv的陣列0
@@ -21,5 +24,5 @@ for div in soup.find_all('div',re.compile('PostEntry_content_\w{6}')):#re用法 
             })
     
     print('共%d篇'% (len(articles)))
-    for a in articles:
+    for a in articles[:3]:
         print(a)

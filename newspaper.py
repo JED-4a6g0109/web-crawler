@@ -9,7 +9,10 @@ Created on Wed Feb 20 22:10:34 2019
 """
 print("蘋果熱門新聞")
 dom=requests.get('https://tw.appledaily.com/hot/daily').text
+
+
 soup=BeautifulSoup(dom,'html5lib')
+
 for hot in soup.find('ul','all').find_all('li'):
     print(
             hot.find('div','aht_title_num').text,'|標題:',

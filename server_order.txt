@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 ½d¨Ò¬d¬Ýserverª¬ºA 200 403 503
 r = requests.get('https://tw.appledaily.com/hot/daily')
 print(dom.status_code)

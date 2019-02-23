@@ -16,3 +16,6 @@ git init
 範例查看server狀態 200 403 503
 r = requests.get('https://tw.appledaily.com/hot/daily')
 print(dom.status_code)
+
+ipstack
+http://api.ipstack.com/(ip).6?access_key=(api key)

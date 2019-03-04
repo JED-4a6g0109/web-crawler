@@ -19,3 +19,6 @@ print(dom.status_code)
 
 ipstack
 http://api.ipstack.com/(ip).6?access_key=(api key)
+
+先拉一份線上版本的回來更新，然後再推一次
+git pull --rebase

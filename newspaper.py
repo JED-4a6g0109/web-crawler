@@ -7,6 +7,9 @@ Created on Wed Feb 20 22:10:34 2019
 
 @author: tomto
 """
+
+tStart = time.time()#計時開始
+
 print("蘋果熱門新聞")
 dom=requests.get('https://tw.appledaily.com/hot/daily').text
 
@@ -33,3 +36,5 @@ for hot in soup.find('ul','list').find_all('li'):
         print("")
     except:
         print(" ")
+tEnd = time.time()#計時結束
+print ('花費時間',tEnd - tStart,"秒")

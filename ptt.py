@@ -20,7 +20,7 @@ def get_web_page(url):
         return resp.text
 
 def get_articles(dom, date):
-    soup = BeautifulSoup(dom, 'lxml')
+    soup = BeautifulSoup(dom, 'html5lib')
 
     paging_div = soup.find('div', 'btn-group btn-group-paging')
     prev_url = paging_div.find_all('a')[1]['href']

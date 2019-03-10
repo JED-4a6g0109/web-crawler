@@ -139,7 +139,7 @@ if current_page:
         current_page = get_web_page('https://www.ptt.cc' + prev_url)
         current_articles, prev_url = get_articles(current_page, date)
         i+=1
-        if i>1:
+        if i>40:
             break
     for article in articles:
        print ('processing',article)

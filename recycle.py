@@ -54,12 +54,11 @@ while (i<25):#最多為24頁
     for item in items:
             print(item)#輸出資料確保無誤
             
+recycles={'recycles':items}
 #輸出json
 with open('recycle.json','w',encoding='utf-8') as f:
-    json.dump(items,f,indent=2,sort_keys=True,ensure_ascii=False)
-    
-    
-    
+    json.dump(recycles,f,indent=2,sort_keys=True,ensure_ascii=False)
+   
     #舊原碼    print('物品',row.find('font').text)#物品
     #    if row.find_all('font')[1].text:
     #        print('英文名稱:',row.find_all('font')[1].text)#td去搜會發現一個問題，list[0]會為空導致錯誤，所以用font來爬

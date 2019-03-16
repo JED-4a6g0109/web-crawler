@@ -1,1436 +1,1438 @@
-[
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/25/115-118 光碟片、CD、VCD、DVD.jpg",
-    "item": "CD",
-    "recycle": "是",
-    "remark": "不含外殼。請收集後裝成一袋交付回收。外殼若為塑膠材質可另行回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/27/115-118 光碟片、CD、VCD、DVD.jpg",
-    "item": "DVD",
-    "recycle": "是",
-    "remark": "不含外殼。請收集後裝成一袋交付回收。外殼若為塑膠材質可另行回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/236/pet塑鋼帶.jpg",
-    "item": "pet塑鋼帶",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/235/pp封箱帶.jpg",
-    "item": "pp封箱帶",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/26/115-118 光碟片、CD、VCD、DVD.jpg",
-    "item": "VCD",
-    "recycle": "是",
-    "remark": "不含外殼。請收集後裝成一袋交付回收。外殼若為塑膠材質可另行回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/20/101 一般提袋.jpg",
-    "item": "一般提袋",
-    "recycle": "是",
-    "remark": "回收前請先去除內容物，鋪平或打結收集成一袋回收(不含鋁箔、紙等複合性材質包裝紙)。回收後可製成為工具箱、花盆等塑膠製品。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/78/238.上衣.JPG",
-    "item": "上衣",
-    "recycle": "是",
-    "remark": "以可穿著為主，貼身衣物因衛生考量，無須回收。回收前請先清洗乾淨勿弄溼，並打包後裝成一袋，交由本局清潔隊之資源回收車、或洽相關回收團體回收。如果是八成新且乾淨的舊衣，也可撥打本局二手物品回收專線04-22294025，約定時間派專人回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/18/113ce5a650005056b713a0.jpg",
-    "item": "叉子",
-    "recycle": "是",
-    "remark": "不�袗�叉子回收叉子塑膠、植物纖維、生物可分解材質不回收"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/188/小燈泡.jpg",
-    "item": "小燈泡",
-    "recycle": "否",
-    "remark": "燈帽在2.6公分以下者，如一般神明桌上使用的燈泡。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/234/不沾鍋.jpg",
-    "item": "不沾鍋",
-    "recycle": "是",
-    "remark": "請丟至廢鐵類做回收"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/129/getImage.jpg",
-    "item": "手套",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/71/223 日光燈管.jpg",
-    "item": "日光燈管",
-    "recycle": "是",
-    "remark": "白熾燈泡限燈帽直徑為2.6公分以上。因燈管中含有水銀蒸氣，吸入會危害人體健康，所以廢舊燈管應注意不要打破，回收前應套袋妥善打包，再交由本局清潔隊之資源回收車回收或送至原販賣點及直接送至回收商處。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/71/223 日光燈管.jpg",
-    "item": "木片便當盒",
-    "recycle": "否",
-    "remark": "請當一般垃圾, 焚化處理。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/71/223 日光燈管.jpg",
-    "item": "木音箱",
-    "recycle": "否",
-    "remark": "主要由木頭組成，複合性材質不回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/168/372 毛巾.jpg",
-    "item": "毛巾",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/19/100 水果網袋.jpg",
-    "item": "水果網袋",
-    "recycle": "是",
-    "remark": "回收前請先去除內容物，鋪平或打結收集成一袋回收(不含鋁箔、紙等複合性材質包裝紙)。回收後可製成為工具箱、花盆等塑膠製品。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/244/水銀燈泡.jpg",
-    "item": "水銀燈泡",
-    "recycle": "否",
-    "remark": "不回收，請產出此廢棄物的單位，自行委託公民營清除處理機構處理。（請不要交清潔隊資源回收車）"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/116/322 水銀體溫計.jpg",
-    "item": "水銀體溫計",
-    "recycle": "是",
-    "remark": "測量人體溫度所使用的水銀體溫計，不含實驗室用的。請使用原包裝盒打包後，特別交付本局資源回收車隨車人員。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/135/410 牙線.jpg",
-    "item": "牙線",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/134/409 牙籤.jpg",
-    "item": "牙籤",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/23/113 牛奶瓶.jpg",
-    "item": "牛奶瓶",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/150/209 主機板.png",
-    "item": "主機板",
-    "recycle": "是",
-    "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/45/161 充電電池.jpg",
-    "item": "充電電池",
-    "recycle": "是",
-    "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/115/318.包包.JPG",
-    "item": "包包",
-    "recycle": "是",
-    "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/40/156 包裝用保麗龍.jpg",
-    "item": "包裝用保麗龍",
-    "recycle": "是",
-    "remark": "工業保麗龍部份，應由相關業者自行集中送往回收商處理。一般家戶零星的包裝用保麗龍，回收前請先去除內容物、膠帶、木材、鐵釘等非保麗龍材質之物品，裝成一袋交由本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/146/21 包裝紙箱 (非瓦楞紙板).png",
-    "item": "包裝紙箱 (非瓦楞紙板)",
-    "recycle": "是",
-    "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/231/000001_1478355855-01-01.jpg",
-    "item": "可伸縮矽膠餐具(袋)",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/77/236 舊衣.jpg",
-    "item": "外套",
-    "recycle": "是",
-    "remark": "以可穿著為主，貼身衣物因衛生考量，無須回收。回收前請先清洗乾淨勿弄溼，並打包後裝成一袋，交由本局清潔隊之資源回收車、或洽相關回收團體回收。如果是八成新且乾淨的舊衣，也可撥打本局二手物品回收專線04-22294025，約定時間派專人回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/140/371.布偶.JPG",
-    "item": "布偶",
-    "recycle": "是",
-    "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/131/375 布條.png",
-    "item": "布條",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/68/205 平板電腦.jpg",
-    "item": "平板電腦",
-    "recycle": "是",
-    "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/14/83 平面玻璃.jpg",
-    "item": "平面玻璃",
-    "recycle": "是",
-    "remark": "如有破損，請收集後以堅固的容器盛裝標示，並特別交付隨車人員，以免清潔隊員受傷。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/224/打火機.jpg",
-    "item": "打火機",
-    "recycle": "否",
-    "remark": "複合材質，不回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/224/打火機.jpg",
-    "item": "打包帶",
-    "recycle": "是",
-    "remark": "打包帶的材質為PP塑膠類, 回收前, 請先去除鐵扣，讓材質單一化，打包帶和塑膠袋一起回收。以大袋裝小袋方式回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/89/267 未烹煮之肉類.jpg",
-    "item": "未烹煮之肉類",
-    "recycle": "否",
-    "remark": "易腐敗不宜回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/12/70 瓦斯鋼瓶.png",
-    "item": "瓦斯鋼瓶(瓦斯桶)",
-    "recycle": "是",
-    "remark": "空瓦斯鋼瓶屬於壓力容器，且用後仍可能殘留瓦斯，故不在清潔隊回收範圍內，宜交由瓦斯行處理。故瓦斯鋼瓶回收請洽臺中市液化氣體燃料商業同業公會04-2526-8732或內政部認證瓦斯檢驗場，南投：049-2528390(巨洲)、沙鹿：04-25224505(今元由) 協調瓦斯行到府回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/214/瓦斯罐.jpg",
-    "item": "瓦斯罐",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/230/甘蔗纖維吸管_.jpg",
-    "item": "甘蔗纖維吸管",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/230/甘蔗纖維吸管_.jpg",
-    "item": "白板",
-    "recycle": "否",
-    "remark": "複合性材質, 不回收"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/74/231 白熾燈泡.jpg",
-    "item": "白熾燈泡【燈帽直徑為2.6公分以上】",
-    "recycle": "是",
-    "remark": "白熾燈泡限燈帽直徑為2.6公分以上。因燈管中含有水銀蒸氣，吸入會危害人體健康，所以廢舊燈管應注意不要打破，回收前應套袋妥善打包，再交由本局清潔隊之資源回收車回收或送至原販賣點及直接送至回收商處。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/239/250259-ecom-retina-01.png.adapt.450.450.jpg",
-    "item": "皮帶",
-    "recycle": "否",
-    "remark": "皮製品(不論真假皮)不可回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/239/250259-ecom-retina-01.png.adapt.450.450.jpg",
-    "item": "石棉瓦",
-    "recycle": "否",
-    "remark": "石棉瓦不回收，但也不能丟垃圾車焚化，家戶產生少量石棉瓦可請清潔隊約定清運; 事業產生大量石棉瓦要自行委託民間清除處理機構清理。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/24/115-118 光碟片、CD、VCD、DVD.jpg",
-    "item": "光碟片",
-    "recycle": "是",
-    "remark": "不含外殼。請收集後裝成一袋交付回收。外殼若為塑膠材質可另行回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/3/14 再生紙.jpg",
-    "item": "再生紙",
-    "recycle": "是",
-    "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/38/154 冰品盒.png",
-    "item": "冰品盒",
-    "recycle": "是",
-    "remark": "工業保麗龍部份，應由相關業者自行集中送往回收商處理。一般家戶零星的包裝用保麗龍，回收前請先去除內容物、膠帶、木材、鐵釘等非保麗龍材質之物品，裝成一袋交由本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/69/214 印表機.jpg",
-    "item": "印表機",
-    "recycle": "是",
-    "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/144/名片.png",
-    "item": "名片",
-    "recycle": "是",
-    "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/101/recycle_oil.png",
-    "item": "回鍋油",
-    "recycle": "是",
-    "remark": "請自備容器盛裝蓋緊，再交付環保局資源回收車清運。(可使用原商品容器、寶特瓶或塑膠空瓶盛裝)。機油、潤滑油並非廢食用油回收種類，不可以和廢食用油混合回收，應交由機車行、汽車修配業或加油站回收。家戶回收後可交由環保局資源回收車清運，而事業單位或攤商所產生的廢食用油，也可交由本局資源回收車或委託合法回收管道做回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/30/140 安全帽.png",
-    "item": "安全帽",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/203/竹蓆草蓆.jpg",
-    "item": "竹蓆(草蓆)",
-    "recycle": "否",
-    "remark": "為不可回收物品，可當成垃圾交由垃圾車。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/208/米袋.jpg",
-    "item": "米袋",
-    "recycle": "否",
-    "remark": "米袋，含尼龍複合材料(PE+尼龍複合材)不回收"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/242/4550002625467_400.jpg",
-    "item": "耳罩",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/98/291 自行車.jpg",
-    "item": "自行車",
-    "recycle": "是",
-    "remark": "民眾須事先與區清潔隊約定時間回收。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。民眾如有廢棄或不再使用之自行車，可下載「自行車輛權利放棄切結書」，填寫後再與本局各區清潔隊聯繫回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/189/mechanical_pencil.jpg",
-    "item": "自動鉛筆",
-    "recycle": "否",
-    "remark": "屬複合性材質不回收"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/54/174 行動電源.jpg",
-    "item": "行動電源",
-    "recycle": "是",
-    "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/75/234 行動電話.jpg",
-    "item": "行動電話",
-    "recycle": "是",
-    "remark": "請交資源回收車隨車人員。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/76/235 行動電話充電器.jpg",
-    "item": "行動電話充電器",
-    "recycle": "是",
-    "remark": "請交資源回收車隨車人員。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/59/179 冷氣機.jpg",
-    "item": "冷氣機",
-    "recycle": "是",
-    "remark": "可交由經銷商逆向回收或請先電洽本局清潔隊各區隊約定收運時間。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。請注意不要妨礙交通安全，及污染環境。如外觀良好且未喪失原功能，可利用跳蚤市場交流。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/202/保冷墊.jpg",
-    "item": "冷凝墊",
-    "recycle": "否",
-    "remark": "為複合性材質不回收，請當一般垃圾交由垃圾車。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/63/192 吹風機.jpg",
-    "item": "吹風機",
-    "recycle": "是",
-    "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/118/straw-2.jpg",
-    "item": "吸管",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/22/111 沙拉油瓶.jpg",
-    "item": "沙拉油瓶",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/212/汽車防撞保險桿.png",
-    "item": "汽車防撞保險桿",
-    "recycle": "否",
-    "remark": "汽車防撞桿、保險桿，內有纖維及橡膠材質等複合性材質，不回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/194/648064.png",
-    "item": "防曬乳",
-    "recycle": "是",
-    "remark": "回收前請先清除內容物，廢容器部分交由本局各區清潔隊資源回收車即可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/193/Emulsion.png",
-    "item": "乳液",
-    "recycle": "是",
-    "remark": "回收前請先清除內容物，廢容器部分交由本局各區清潔隊資源回收車即可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/127/364 抹布.png",
-    "item": "抹布",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/113/apparel.jpg",
-    "item": "服飾",
-    "recycle": "是",
-    "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/113/apparel.jpg",
-    "item": "枕頭",
-    "recycle": "否",
-    "remark": "請當垃圾處理，可丟入垃圾車載運。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/35/148 杯碗盤碟盒.jpg",
-    "item": "杯碗盤碟盒",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/162/Bubble_Tea_Cup.png",
-    "item": "泡沫紅茶杯",
-    "recycle": "是",
-    "remark": "回收前請先去除食物殘渣後，以水略加清洗瀝乾後交由本局清潔隊之資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/36/149 泡麵碗.png",
-    "item": "泡麵碗",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/205/泡麵袋家庭袋裝外包裝.jpg",
-    "item": "泡麵綜合包外層袋",
-    "recycle": "是",
-    "remark": "塑膠袋(不含鋁箔、紙等複合材質)，請於回收前先去除內容物，鋪平或打節收集成一袋，再交付本局資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/72/224 直管日光燈管.jpg",
-    "item": "直管日光燈管",
-    "recycle": "是",
-    "remark": "白熾燈泡限燈帽直徑為2.6公分以上。因燈管中含有水銀蒸氣，吸入會危害人體健康，所以廢舊燈管應注意不要打破，回收前應套袋妥善打包，再交由本局清潔隊之資源回收車回收或送至原販賣點及直接送至回收商處。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/105/304 花瓶.jpg",
-    "item": "花瓶",
-    "recycle": "是",
-    "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/180/papermoney.jpg",
-    "item": "金紙",
-    "recycle": "否",
-    "remark": "不回收。清明時節或廟宇，參與紙錢集中燒活動，可減少空氣污染。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/16/88 金屬釘書機.jpg",
-    "item": "金屬釘書機",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/17/90 金屬剪刀.jpg",
-    "item": "金屬剪刀",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/160/91 金屬湯匙.png",
-    "item": "金屬湯匙",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/132/399 雨衣.png",
-    "item": "雨衣",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/11/66 雨傘骨架.png",
-    "item": "雨傘骨架",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/191/rain_boots.jpg",
-    "item": "雨鞋",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/233/信用卡及磁扣.jpg",
-    "item": "信用卡及磁扣",
-    "recycle": "否",
-    "remark": "捷運用的1日券磁卡(扣)、信用卡均不能回收"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/218/便利貼.jpg",
-    "item": "便利貼",
-    "recycle": "否",
-    "remark": "複合材質紙類"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/158/04 便條紙.png",
-    "item": "便條紙",
-    "recycle": "是",
-    "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/225/保險箱.png",
-    "item": "保險箱",
-    "recycle": "否",
-    "remark": "不回收，保險箱灌有大量水泥，不易做不同材質分離，是屬於垃圾，不能焚化。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/37/152 保麗龍杯.jpg",
-    "item": "保麗龍杯",
-    "recycle": "是",
-    "remark": "保麗龍餐具(含杯碗盤盒)，請清除食物殘渣，簡單沖洗並瀝除水分，隨塑膠容器類一起交付環保局資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/222/蔬果包裝袋.jpg",
-    "item": "洗衣店套袋、蔬果包裝袋",
-    "recycle": "是",
-    "remark": "回收前請先去除內容物，鋪平或打結收集成一袋回收(不含鋁箔、紙等複合性材質包裝紙)。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/216/洗衣精補充包.jpg",
-    "item": "洗衣精補充包(袋)",
-    "recycle": "否",
-    "remark": "洗衣精補充包內有(鋁塑複合材)"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/58/178 洗衣機.jpg",
-    "item": "洗衣機",
-    "recycle": "是",
-    "remark": "可交由經銷商逆向回收或請先電洽本局清潔隊各區隊約定收運時間。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。請注意不要妨礙交通安全，及污染環境。如外觀良好且未喪失原功能，可利用跳蚤市場交流。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/15/85 玻璃容器.jpg",
-    "item": "玻璃容器",
-    "recycle": "是",
-    "remark": "請去除瓶蓋、吸管、請先倒空容器內之殘餘物，用水略為沖洗後回收。如有破損，請收集後以堅固的容器盛裝標示，並特別交付資源回收車人員，以免清潔隊員受傷。若未破碎，則可送至量販店、超級市場、連鎖便利商店或資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/232/59034a3f0f915_610.jpg",
-    "item": "相片紙",
-    "recycle": "否",
-    "remark": "相片紙(其屬複合性材質含有顯影劑)屬不可回收之一般廢棄物，可交由本市清潔隊垃圾車處理即可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/122/337.砂紙.JPG",
-    "item": "砂紙",
-    "recycle": "否",
-    "remark": "打包後交環保局垃圾車清除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/122/337.砂紙.JPG",
-    "item": "美耐皿餐具",
-    "recycle": "否",
-    "remark": "一般自助餐等使用的可重複清洗餐具，類似塑膠材質，但美耐皿餐具不能回收。因為美耐皿餐具是以「三聚氰胺甲醛樹脂（melamine-formaldehyde resin）」製成。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/102/298 食用油.jpg",
-    "item": "食用油",
-    "recycle": "是",
-    "remark": "請自備容器盛裝蓋緊，再交付環保局資源回收車清運。(可使用原商品容器、寶特瓶或塑膠空瓶盛裝)。機油、潤滑油並非廢食用油回收種類，不可以和廢食用油混合回收，應交由機車行、汽車修配業或加油站回收。家戶回收後可交由環保局資源回收車清運，而事業單位或攤商所產生的廢食用油，也可交由本局資源回收車或委託合法回收管道做回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/229/玉山-小-包袱-彩色底.jpg",
-    "item": "食物袋",
-    "recycle": "否",
-    "remark": "Pockeat食物袋, 外袋的材料是聚脂纖維Polyester，內袋是可熱塑性橡膠TPU。 不能回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/215/食品包裝袋.jpg",
-    "item": "食品包裝袋",
-    "recycle": "否",
-    "remark": "食品包裝袋內為鋁塑複合材"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/87/256 香蕉皮.jpg",
-    "item": "香蕉皮",
-    "recycle": "是",
-    "remark": "玉米殼、筍殼除外。民眾回收廚餘前，請瀝除水分後，自備適當容器（鍋、碗、瓢、盆、桶）盛裝，倒入垃圾車後加掛的廚餘回收桶或社區內之廚餘回收桶內。如使用塑膠袋盛裝廚餘，請倒出廚餘回收後，髒汙塑膠袋可丟入垃圾車內。塑膠袋、衛生紙、竹筷、牙籤、咖啡包(渣)、茶葉包(渣)及中藥包(材)、硬殼類(榴槤皮、椰子、貝殼)等雜質，不可丟入廚餘回收桶。廢食用油請勿倒入廚餘回收桶，請另外以容器盛裝交付資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/169/1070118.png",
-    "item": "原子筆的塑膠外殼",
-    "recycle": "是",
-    "remark": "若包含複合材料或軟襯則不可回收，請收集一束後再交付回收，回收前筆芯請先去除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/111/313 家飾品.jpg",
-    "item": "家飾品",
-    "recycle": "是",
-    "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/192/Suitcase.png",
-    "item": "旅行箱",
-    "recycle": "否",
-    "remark": "家中閒置欲丟棄之旅行箱，如外觀完整且可使用者，歡迎可撥打資源回收專線04-22294025預約回收，若旅行箱已破損不堪使用者以一般垃圾處理。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/2/12 書籍.jpg",
-    "item": "書籍",
-    "recycle": "是",
-    "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/209/氣泡紙.jpg",
-    "item": "氣泡紙",
-    "recycle": "是",
-    "remark": "回收前請先去除內容物、表面髒汙，收集成一袋回收(不含鋁箔、紙等複合性材質包裝紙)。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/166/196 烘碗機.png",
-    "item": "烘碗機",
-    "recycle": "是",
-    "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/64/193 烤箱.jpg",
-    "item": "烤箱",
-    "recycle": "是",
-    "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/200/ly053_.jpg",
-    "item": "特殊規格大型輪胎",
-    "recycle": "是",
-    "remark": "請業者自行依市場機制回收或洽廢輪胎處理廠。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/108/309 破馬桶.jpg",
-    "item": "破馬桶",
-    "recycle": "是",
-    "remark": "民眾須事先與區清潔隊約定時間回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/103/302 破碗盤.jpg",
-    "item": "破碗盤",
-    "recycle": "是",
-    "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/197/5688627758403.png",
-    "item": "粉底液",
-    "recycle": "否",
-    "remark": "為不可回收物，以一般廢棄物交付清潔隊沿街收運垃圾車即可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/119/332 紙尿片I.png",
-    "item": "紙尿片",
-    "recycle": "否",
-    "remark": "打包後交環保局垃圾車清除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/142/332 紙尿片I.png",
-    "item": "紙尿布",
-    "recycle": "否",
-    "remark": "打包後交環保局垃圾車清除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/141/332 紙尿片III.jpg",
-    "item": "紙尿褲",
-    "recycle": "否",
-    "remark": "打包後交環保局垃圾車清除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/6/23 紙容器.jpg",
-    "item": "紙容器",
-    "recycle": "是",
-    "remark": "紙容器不能和紙張、報紙一樣，當成紙類廢棄物，而是要分開回收，因為兩者在回收場後端的處理流程完全不同。請先清除內容物，簡單清洗或使用餐巾紙擦拭油污，瀝除水分，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/145/20.紙箱.png",
-    "item": "紙箱",
-    "recycle": "是",
-    "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/8/30 紙餐具.jpg",
-    "item": "紙餐具",
-    "recycle": "是",
-    "remark": "紙容器不能和紙張、報紙一樣，當成紙類廢棄物，而是要分開回收，因為兩者在回收場後端的處理流程完全不同。飲料喝完後，取出吸管，略加沖洗，瀝除水分，將其壓扁，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/94/茶葉渣.png",
-    "item": "茶渣",
-    "recycle": "是",
-    "remark": "請勿放入養豬用廚餘回收桶。本局目前部分區清潔隊未回收堆肥廚餘，有興趣推動自主性廚回收堆肥的社區學校機關團體，請洽資源回收專線：04-22294025。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/81/247 蚊香.jpg",
-    "item": "蚊香",
-    "recycle": "是",
-    "remark": "內容物的蚊香做為一般垃圾，外部的鐵容器需回收"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/143/303 酒瓶.jpg",
-    "item": "酒瓶",
-    "recycle": "是",
-    "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/227/馬桶蓋.jpg",
-    "item": "馬桶蓋及其座墊",
-    "recycle": "是",
-    "remark": "屬純pp或PE材質可以回收，混料屬複合材質（較硬的）無回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/217/乾淨透明包裝袋.jpg",
-    "item": "乾淨透明包裝袋",
-    "recycle": "是",
-    "remark": "回收前請先去除內容物，鋪平或打結收集成一袋回收(不含鋁箔、紙等複合性材質包裝紙)。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/44/160 乾電池.jpg",
-    "item": "乾電池",
-    "recycle": "是",
-    "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/84/250 殺蟑劑.jpg",
-    "item": "殺蟑劑",
-    "recycle": "是",
-    "remark": "農藥瓶罐需使用完畢，不要有剩餘液體。以三沖三洗方式，將農藥瓶罐沖洗乾淨，並將清洗液倒入噴灑器內，重複噴灑利用。清除內容物後並打包成一袋，交由農會或農藥販賣業者回收點回收(農業局輔導設置，清潔隊協助清運)，或清潔隊固定回收點。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/82/248 殺蟲劑.jpg",
-    "item": "殺蟲劑",
-    "recycle": "是",
-    "remark": "使用完畢後，清除內容物，略加清洗後，再交給資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/190/bottle_cap.jpg",
-    "item": "瓶蓋",
-    "recycle": "是",
-    "remark": "塑膠瓶蓋可以回收，建議收集一袋再交付回收車回收。鐵製瓶蓋也可以回收，但請將內層襯墊清除後再收集一袋，交付回收車回收。回收前請注意清除內容物、污漬。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/195/make222.png",
-    "item": "眼影",
-    "recycle": "否",
-    "remark": "為不可回收物，以一般廢棄物交付清潔隊沿街收運垃圾車即可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/91/271 蛋殼.jpg",
-    "item": "蛋殼",
-    "recycle": "是",
-    "remark": "請勿放入養豬用廚餘回收桶。本局目前部分區清潔隊未回收堆肥廚餘，有興趣推動自主性廚回收堆肥的社區學校機關團體，請洽資源回收專線：04-22294025。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/39/155 蛋糕盒.jpg",
-    "item": "蛋糕盒",
-    "recycle": "是",
-    "remark": "工業保麗龍部份，應由相關業者自行集中送往回收商處理。一般家戶零星的包裝用保麗龍，回收前請先去除內容物、膠帶、木材、鐵釘等非保麗龍材質之物品，裝成一袋交由本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/86/255 軟質果皮.jpg",
-    "item": "軟質果皮",
-    "recycle": "是",
-    "remark": "玉米殼、筍殼除外。民眾回收廚餘前，請瀝除水分後，自備適當容器（鍋、碗、瓢、盆、桶）盛裝，倒入垃圾車後加掛的廚餘回收桶或社區內之廚餘回收桶內。如使用塑膠袋盛裝廚餘，請倒出廚餘回收後，髒汙塑膠袋可丟入垃圾車內。塑膠袋、衛生紙、竹筷、牙籤、咖啡包(渣)、茶葉包(渣)及中藥包(材)、硬殼類(榴槤皮、椰子、貝殼)等雜質，不可丟入廚餘回收桶。廢食用油請勿倒入廚餘回收桶，請另外以容器盛裝交付資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/152/300 陶瓷食器.png",
-    "item": "陶瓷食器",
-    "recycle": "是",
-    "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/153/301 陶瓷容器.png",
-    "item": "陶瓷容器",
-    "recycle": "是",
-    "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/240/MN40333.jpg",
-    "item": "圍巾",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/130/370.圍裙.JPG",
-    "item": "圍裙",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/95/288 堪用家具.jpg",
-    "item": "堪用家具",
-    "recycle": "是",
-    "remark": "民眾須事先與區清潔隊約定時間回收。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。民眾如有廢棄或不再使用之自行車，可下載「自行車輛權利放棄切結書」，填寫後再與本局各區清潔隊聯繫回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/5/17 報紙.jpg",
-    "item": "報紙",
-    "recycle": "是",
-    "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/241/93a181b9-4e3e-4b2b-83fd-35bb96b254c6_8493551.jpg",
-    "item": "帽子",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/125/355 棉被.png",
-    "item": "棉被",
-    "recycle": "否",
-    "remark": "請當垃圾處理, 可丟入垃圾車載運。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/221/棉被套袋.jpg",
-    "item": "棉被套袋",
-    "recycle": "否",
-    "remark": "複合材質不回收，請交由垃圾車清運。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/128/365 窗簾.png",
-    "item": "窗簾",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/136/413 筆.png",
-    "item": "筆",
-    "recycle": "否",
-    "remark": "屬複合性材質不回收，但原子筆殼如未有軟襯屬塑膠部份可回收，請收集一束後在交付回收。回收前筆蕊請先去除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/0/1 筆記書紙.jpg",
-    "item": "筆記書紙",
-    "recycle": "是",
-    "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/49/164-165 錳鋅、筒型鹼錳電池.jpg",
-    "item": "筒型鹼錳電池",
-    "recycle": "是",
-    "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/109/310-311 絨毛、塑膠玩具.jpg",
-    "item": "絨毛玩具",
-    "recycle": "是",
-    "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/50/166 鈕釦型電池.jpg",
-    "item": "鈕釦型電池",
-    "recycle": "是",
-    "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/174/168 鈕扣型鋰電池.jpg",
-    "item": "鈕釦型鋰電池",
-    "recycle": "是",
-    "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/62/189 飲水機.jpg",
-    "item": "飲水機",
-    "recycle": "是",
-    "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/62/189 飲水機.jpg",
-    "item": "飲料杯",
-    "recycle": "是",
-    "remark": "不管是紙、塑膠(含保麗龍)、生物可分解材質的飲料杯，均可以回收。回收前請先去除吸管、封膜，並清除內容物後再回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/219/紙盒包.jpg",
-    "item": "飲料紙盒包",
-    "recycle": "是",
-    "remark": "不能和紙張、報紙一樣，當成紙類廢棄物，而是要分開回收，因為兩者在回收場後端的處理流程完全不同。飲料喝完後，取出吸管，略加沖洗，瀝除水分，將其壓扁，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/66/199.傳真機.png",
-    "item": "傳真機",
-    "recycle": "是",
-    "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/163/塑膠水杯.jpg",
-    "item": "塑膠水杯",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/110/310-311 絨毛、塑膠玩具.jpg",
-    "item": "塑膠玩具",
-    "recycle": "是",
-    "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/28/128.塑膠花盆.JPG",
-    "item": "塑膠花盆",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/148/104 塑膠容器.png",
-    "item": "塑膠容器",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/210/塑膠盒.jpg",
-    "item": "塑膠盒",
-    "recycle": "是",
-    "remark": "回收前請先清空內容物，以水略加清洗瀝乾後回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/80/245 塑膠製農藥容器.jpg",
-    "item": "塑膠製農藥容器",
-    "recycle": "是",
-    "remark": "農藥瓶罐需使用完畢，不要有剩餘液體。以三沖三洗方式，將農藥瓶罐沖洗乾淨，並將清洗液倒入噴灑器內，重複噴灑利用。清除內容物後並打包成一袋，交由農會或農藥販賣業者回收點回收(農業局輔導設置，清潔隊協助清運)，或清潔隊固定回收點。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/34/146 塑膠餐盤.jpg",
-    "item": "塑膠餐盤",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/33/145 塑膠類免洗餐具.jpg",
-    "item": "塑膠類免洗餐具",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/92/274 椰子殼.jpg",
-    "item": "椰子殼",
-    "recycle": "是",
-    "remark": "請勿放入養豬用廚餘回收桶。本局目前部分區清潔隊未回收堆肥廚餘，有興趣推動自主性廚回收堆肥的社區學校機關團體，請洽資源回收專線：04-22294025。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/213/滅火器.jpg",
-    "item": "滅火器",
-    "recycle": "否",
-    "remark": "滅火器應交由原販賣業者逆向回收，或在安全無虞之狀況下，先行卸除氣體壓力，再交付回收，以免造成危險。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/138/426 滑鼠.png",
-    "item": "滑鼠",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/139/427 滑鼠墊.JPG",
-    "item": "滑鼠墊",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/237/IMG_Category-yoga_mat.jpg",
-    "item": "瑜珈墊",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/196/mascara.png",
-    "item": "睫毛膏",
-    "recycle": "否",
-    "remark": "為不可回收物，以一般廢棄物交付清潔隊沿街收運垃圾車即可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/133/408.筷子.JPG",
-    "item": "筷子",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/99/292 腳踏車.jpg",
-    "item": "腳踏車",
-    "recycle": "是",
-    "remark": "民眾須事先與區清潔隊約定時間回收。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。民眾如有廢棄或不再使用之自行車，可下載「自行車輛權利放棄切結書」，填寫後再與本局各區清潔隊聯繫回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/171/78(無原編).過期藥丸(缺藥水).png",
-    "item": "過期藥丸",
-    "recycle": "否",
-    "remark": "過期藥丸、藥水以一般垃圾處理，過期麻醉藥及癌症藥物請送回原開立醫院、藥局"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/55/175 鉛蓄電池.jpg",
-    "item": "鉛蓄電池",
-    "recycle": "是",
-    "remark": "汽、機車之鉛蓄電池可交由本局資源回收車回收或交由汽機車行或保修廠逆向回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/175/339 電子發票.jpg",
-    "item": "電子發票",
-    "recycle": "否",
-    "remark": "電子發票, 係熱感應紙印製，不回收，請交環保局垃圾車清除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/57/177 電冰箱.jpg",
-    "item": "電冰箱",
-    "recycle": "是",
-    "remark": "可交由經銷商逆向回收或請先電洽本局清潔隊各區隊約定收運時間。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。請注意不要妨礙交通安全，及污染環境。如外觀良好且未喪失原功能，可利用跳蚤市場交流。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/165/194 電風扇.jpg",
-    "item": "電風扇",
-    "recycle": "是",
-    "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/56/176 電視機.jpg",
-    "item": "電視機",
-    "recycle": "是",
-    "remark": "可交由經銷商逆向回收或請先電洽本局清潔隊各區隊約定收運時間。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。請注意不要妨礙交通安全，及污染環境。如外觀良好且未喪失原功能，可利用跳蚤市場交流。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/204/oldfhair.png",
-    "item": "電腦椅",
-    "recycle": "是",
-    "remark": "民眾須事先與區清潔隊約定時間回收。家戶產生之巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/60/185 電熱水瓶.jpg",
-    "item": "電熱水瓶",
-    "recycle": "是",
-    "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/223/電線.jpg",
-    "item": "電線",
-    "recycle": "是",
-    "remark": "包覆銅線電線、廢電線"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/61/188 電鍋.jpg",
-    "item": "電鍋",
-    "recycle": "是",
-    "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/83/249 漂白水容器.jpg",
-    "item": "漂白水容器",
-    "recycle": "是",
-    "remark": "農藥瓶罐需使用完畢，不要有剩餘液體。以三沖三洗方式，將農藥瓶罐沖洗乾淨，並將清洗液倒入噴灑器內，重複噴灑利用。清除內容物後並打包成一袋，交由農會或農藥販賣業者回收點回收(農業局輔導設置，清潔隊協助清運)，或清潔隊固定回收點。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/106/305 磁磚2.png",
-    "item": "磁磚",
-    "recycle": "是",
-    "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/156/383 網路線.png",
-    "item": "網路線",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/93/277 鳳梨頭.jpg",
-    "item": "鳳梨頭",
-    "recycle": "是",
-    "remark": "請勿放入養豬用廚餘回收桶。本局目前部分區清潔隊未回收堆肥廚餘，有興趣推動自主性廚回收堆肥的社區學校機關團體，請洽資源回收專線：04-22294025。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/211/廢包裝用塑膠.jpg",
-    "item": "廢包裝用發泡塑膠",
-    "recycle": "是",
-    "remark": "回收前請先去除膠帶等其他材質，交由資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/96/289 廢沙發.jpg",
-    "item": "廢沙發",
-    "recycle": "是",
-    "remark": "民眾須事先與區清潔隊約定時間回收。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。民眾如有廢棄或不再使用之自行車，可下載「自行車輛權利放棄切結書」，填寫後再與本局各區清潔隊聯繫回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/41/157-159 廢汽車輪胎、廢機車輪胎、廢腳踏車輪胎.jpg",
-    "item": "廢汽車輪胎",
-    "recycle": "是",
-    "remark": "請洽廢輪胎處理廠。20條以下的廢棄汽車輪胎，請事先洽詢各區清潔隊，由業者自行載運至本局暫置場。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/43/157-159 廢汽車輪胎、廢機車輪胎、廢腳踏車輪胎.jpg",
-    "item": "廢腳踏車輪胎",
-    "recycle": "是",
-    "remark": "腳踏車胎不限數量，均可交由環保局沿街收運之資源回收車。倘若資源回收車無空間載運，則可與清潔隊預約以專車收運。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/42/158 廢機車輪胎.jpg",
-    "item": "廢機車輪胎",
-    "recycle": "是",
-    "remark": "機車胎5個以下，可交由環保局沿街收運之資源回收車。機車胎5個以上或資源回收車無空間載運，則可與清潔隊預約以專車收運。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/85/71(無原編).熟食類廚餘.JPG",
-    "item": "廚餘",
-    "recycle": "是",
-    "remark": "剩飯菜、未烹煮之肉類、罐頭、不再食用之食品食材等皆可回收，玉米殼、筍殼除外。民眾回收廚餘前，請瀝除水分後，自備適當容器（鍋、碗、瓢、盆、桶）盛裝，倒入垃圾車後加掛的廚餘回收桶或社區內之廚餘回收桶內。如使用塑膠袋盛裝廚餘，請倒出廚餘回收後，髒汙塑膠袋可丟入垃圾車內。塑膠袋、衛生紙、竹筷、牙籤、咖啡包(渣)、茶葉包(渣)及中藥包(材)、硬殼類(榴槤皮、椰子、貝殼)等雜質，不可丟入廚餘回收桶。廢食用油請勿倒入廚餘回收桶，請另外以容器盛裝交付資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/243/587531523_979.jpg",
-    "item": "廣告中空板",
-    "recycle": "否",
-    "remark": "塑膠複合材質.沒有回收"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/97/290 彈簧床墊.jpg",
-    "item": "彈簧床墊",
-    "recycle": "是",
-    "remark": "民眾須事先與區清潔隊約定時間回收。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點。清潔隊回收後，拆除回收床墊內的廢鐵(彈簧)。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/164/181 影印機.jpg",
-    "item": "影印機",
-    "recycle": "是",
-    "remark": "可交由經銷商逆向回收或請先電洽本局清潔隊各區隊約定收運時間。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。請注意不要妨礙交通安全，及污染環境。如外觀良好且未喪失原功能，可利用跳蚤市場交流。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/67/200 影音光碟機.jpg",
-    "item": "影音光碟機",
-    "recycle": "是",
-    "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/220/標籤貼紙.jpg",
-    "item": "標籤貼紙",
-    "recycle": "否",
-    "remark": "複合材質，不回收，請交環保局垃圾車清除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/100/296 潤滑油.jpg",
-    "item": "潤滑油",
-    "recycle": "是",
-    "remark": "請交由機車行、汽車維修廠及加油站等所設置之廢潤滑油回收站進行回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/198/Conditioner.png",
-    "item": "潤髮乳",
-    "recycle": "是",
-    "remark": "回收前請先清除內容物，廢容器部分交由本局各區清潔隊資源回收車即可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/173/71(無原編).熟食類廚餘.JPG",
-    "item": "熟食類廚餘",
-    "recycle": "是",
-    "remark": "剩飯菜、未烹煮之肉類、罐頭、不再食用之食品食材等皆可回收。民眾回收廚餘前，請瀝除水分後，自備適當容器（鍋、碗、瓢、盆、桶）盛裝，倒入垃圾車後加掛的廚餘回收桶或社區內之廚餘回收桶內。不可將塑膠袋、衛生紙、竹筷、牙籤、咖啡包(渣)、茶葉包(渣)、中藥包(材)、硬殼類(榴槤皮、椰子、貝殼)等雜質類丟入廚餘回收桶內。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/201/Hotsensorpaper.jpg",
-    "item": "熱感應紙",
-    "recycle": "否",
-    "remark": "熱感應紙，不回收，請交環保局垃圾車清除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/29/131 膠水瓶.jpg",
-    "item": "膠水瓶",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/228/蓮蓬頭1-01.jpg",
-    "item": "蓮蓬頭",
-    "recycle": "是",
-    "remark": "塑膠蓮蓬頭為硬塑膠屬單一材質可回收, 但若為塑膠鍍金屬則屬複合材質不回收，另管線一般為含紗或部分金屬無法分離的複合材質不回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/120/333 衛生紙.png",
-    "item": "衛生紙",
-    "recycle": "否",
-    "remark": "打包後交環保局垃圾車清除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/121/335.衛生棉.JPG",
-    "item": "衛生棉",
-    "recycle": "否",
-    "remark": "打包後交環保局垃圾車清除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/207/衛生棉外包裝袋.jpg",
-    "item": "衛生棉外包裝袋",
-    "recycle": "是",
-    "remark": "塑膠袋(不含鋁箔、紙等複合材質)，請於回收前先去除內容物，鋪平或打節收集成一袋，再交付本局資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/123/347.複寫紙.png",
-    "item": "複寫紙",
-    "recycle": "否",
-    "remark": "打包後交環保局垃圾車清除。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/124/353 鋁箔、紙等複合性材質塑膠袋.jpg",
-    "item": "鋁箔、紙等複合性材質塑膠袋",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/7/25 鋁箔包.jpg",
-    "item": "鋁箔包",
-    "recycle": "是",
-    "remark": "紙容器不能和紙張、報紙一樣，當成紙類廢棄物，而是要分開回收，因為兩者在回收場後端的處理流程完全不同。飲料喝完後，取出吸管，略加沖洗，瀝除水分，將其壓扁，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/13/72.鋁鍋.png",
-    "item": "鋁鍋",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/9/36 鋁鐵罐.jpg",
-    "item": "鋁鐵罐",
-    "recycle": "是",
-    "remark": "請先倒空容器內之殘餘物，用水略為沖洗，壓扁後回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/53/172 鋰電池.jpg",
-    "item": "鋰電池",
-    "recycle": "是",
-    "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/secondhand/index.asp",
-    "item": "鞋子",
-    "recycle": "是",
-    "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/157/114 養樂多瓶.png",
-    "item": "養樂多瓶",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/154/327 橡皮筋.png",
-    "item": "橡皮筋",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/137/414 橡皮擦.png",
-    "item": "橡皮擦",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/137/414 橡皮擦.png",
-    "item": "機車坐墊",
-    "recycle": "否",
-    "remark": "由人工塑膠皮、泡綿等組成，不回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/137/414 橡皮擦.png",
-    "item": "機車車殼",
-    "recycle": "否",
-    "remark": "大都屬為ABS材質，目前無回收去化管道，且非屬公告應回收項目，故可交由垃圾車處理."
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/151/computerMachine.jpg",
-    "item": "機殼",
-    "recycle": "是",
-    "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/107/306 磚頭.png",
-    "item": "磚頭",
-    "recycle": "是",
-    "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/149/207 螢幕.png",
-    "item": "螢幕",
-    "recycle": "是",
-    "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/79/239.褲子.JPG",
-    "item": "褲子",
-    "recycle": "是",
-    "remark": "以可穿著為主，貼身衣物因衛生考量，無須回收。回收前請先清洗乾淨勿弄溼，並打包後裝成一袋，交由本局清潔隊之資源回收車、或洽相關回收團體回收。如果是八成新且乾淨的舊衣，也可撥打本局二手物品回收專線04-22294025，約定時間派專人回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/48/164-165 錳鋅、筒型鹼錳電池.jpg",
-    "item": "錳鋅電池",
-    "recycle": "是",
-    "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/32/144 錄音帶.jpg",
-    "item": "錄音帶",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/31/143 錄影帶.jpg",
-    "item": "錄影帶",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/112/315 餐具（杯碗盤碟）.jpg",
-    "item": "餐具(杯碗盤碟)",
-    "recycle": "是",
-    "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/206/濕紙巾外包裝袋.jpg",
-    "item": "濕紙巾外包裝袋",
-    "recycle": "是",
-    "remark": "(彩色軟袋)塑膠袋(不含鋁箔、紙等複合材質)，請於回收前先去除內容物，鋪平或打節收集成一袋，再交付本局資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/73/226 螺旋日光燈管.jpg",
-    "item": "螺旋日光燈管",
-    "recycle": "是",
-    "remark": "白熾燈泡限燈帽直徑為2.6公分以上。因燈管中含有水銀蒸氣，吸入會危害人體健康，所以廢舊燈管應注意不要打破，回收前應套袋妥善打包，再交由本局清潔隊之資源回收車回收或送至原販賣點及直接送至回收商處。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/4/16 購物紙袋.jpg",
-    "item": "購物紙袋",
-    "recycle": "是",
-    "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/70/218 鍵盤.jpg",
-    "item": "鍵盤",
-    "recycle": "是",
-    "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/238/images.jpg",
-    "item": "舊衣",
-    "recycle": "是",
-    "remark": "簽名衣物、貼身衣物(睡衣.內衣褲.泳裝等)、皮衣褲(不論真假皮)、發霉.黃斑或汙漬異味、破鎖或洞洞設計，皆不可回收"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/226/舊鞋.jpg",
-    "item": "舊鞋",
-    "recycle": "否",
-    "remark": "如外觀髒汙明顯、破損、破舊，無法再使用的鞋子，將不列入回收範圍。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/52/171 鎳氫電池.jpg",
-    "item": "鎳氫電池",
-    "recycle": "是",
-    "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/46/162 鎳鎘電池.jpg",
-    "item": "鎳鎘電池",
-    "recycle": "是",
-    "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/1/11 雜誌.jpg",
-    "item": "雜誌",
-    "recycle": "是",
-    "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/170/420 鏡子.png",
-    "item": "鏡子",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/21/110 礦泉水瓶II.jpg",
-    "item": "礦泉水瓶",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/88/259 蘋果皮2.jpg",
-    "item": "蘋果皮",
-    "recycle": "是",
-    "remark": "玉米殼、筍殼除外。民眾回收廚餘前，請瀝除水分後，自備適當容器（鍋、碗、瓢、盆、桶）盛裝，倒入垃圾車後加掛的廚餘回收桶或社區內之廚餘回收桶內。如使用塑膠袋盛裝廚餘，請倒出廚餘回收後，髒汙塑膠袋可丟入垃圾車內。塑膠袋、衛生紙、竹筷、牙籤、咖啡包(渣)、茶葉包(渣)及中藥包(材)、硬殼類(榴槤皮、椰子、貝殼)等雜質，不可丟入廚餘回收桶。廢食用油請勿倒入廚餘回收桶，請另外以容器盛裝交付資源回收車回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/117/323 蠟燭玻璃罐.png",
-    "item": "蠟燭玻璃罐",
-    "recycle": "是",
-    "remark": "請與其他資源物分開，交由本局清潔隊之資源回收車或回收點回收，以利工廠原型再利用。殘留的蠟燭可一併回收。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/126/357.襪子.JPG",
-    "item": "襪子",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/155/348 護貝紙.jpg",
-    "item": "護貝紙",
-    "recycle": "否",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/199/Conditioner.png",
-    "item": "護髮乳",
-    "recycle": "是",
-    "remark": "回收前請先清除內容物，廢容器部分交由本局各區清潔隊資源回收車即可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/147/49 鐵桶.jpg",
-    "item": "鐵桶",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/10/53.鐵鍋.JPG",
-    "item": "鐵鍋",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/159/54 鐵櫃.png",
-    "item": "鐵櫃",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/90/268 罐頭.jpg",
-    "item": "罐頭",
-    "recycle": "是",
-    "remark": "無說明"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/47/163 鹼性電池.jpg",
-    "item": "鹼性電池",
-    "recycle": "是",
-    "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
-  },
-  {
-    "image": "http://recycle.epb.taichung.gov.tw/files/resource/161/93 鑰匙.jpg",
-    "item": "鑰匙",
-    "recycle": "是",
-    "remark": "無說明"
-  }
-]
+{
+  "recycles": [
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/25/115-118 光碟片、CD、VCD、DVD.jpg",
+      "item": "CD",
+      "recycle": "是",
+      "remark": "不含外殼。請收集後裝成一袋交付回收。外殼若為塑膠材質可另行回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/27/115-118 光碟片、CD、VCD、DVD.jpg",
+      "item": "DVD",
+      "recycle": "是",
+      "remark": "不含外殼。請收集後裝成一袋交付回收。外殼若為塑膠材質可另行回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/236/pet塑鋼帶.jpg",
+      "item": "pet塑鋼帶",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/235/pp封箱帶.jpg",
+      "item": "pp封箱帶",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/26/115-118 光碟片、CD、VCD、DVD.jpg",
+      "item": "VCD",
+      "recycle": "是",
+      "remark": "不含外殼。請收集後裝成一袋交付回收。外殼若為塑膠材質可另行回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/20/101 一般提袋.jpg",
+      "item": "一般提袋",
+      "recycle": "是",
+      "remark": "回收前請先去除內容物，鋪平或打結收集成一袋回收(不含鋁箔、紙等複合性材質包裝紙)。回收後可製成為工具箱、花盆等塑膠製品。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/78/238.上衣.JPG",
+      "item": "上衣",
+      "recycle": "是",
+      "remark": "以可穿著為主，貼身衣物因衛生考量，無須回收。回收前請先清洗乾淨勿弄溼，並打包後裝成一袋，交由本局清潔隊之資源回收車、或洽相關回收團體回收。如果是八成新且乾淨的舊衣，也可撥打本局二手物品回收專線04-22294025，約定時間派專人回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/18/113ce5a650005056b713a0.jpg",
+      "item": "叉子",
+      "recycle": "是",
+      "remark": "不�袗�叉子回收叉子塑膠、植物纖維、生物可分解材質不回收"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/188/小燈泡.jpg",
+      "item": "小燈泡",
+      "recycle": "否",
+      "remark": "燈帽在2.6公分以下者，如一般神明桌上使用的燈泡。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/234/不沾鍋.jpg",
+      "item": "不沾鍋",
+      "recycle": "是",
+      "remark": "請丟至廢鐵類做回收"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/129/getImage.jpg",
+      "item": "手套",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/71/223 日光燈管.jpg",
+      "item": "日光燈管",
+      "recycle": "是",
+      "remark": "白熾燈泡限燈帽直徑為2.6公分以上。因燈管中含有水銀蒸氣，吸入會危害人體健康，所以廢舊燈管應注意不要打破，回收前應套袋妥善打包，再交由本局清潔隊之資源回收車回收或送至原販賣點及直接送至回收商處。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/71/223 日光燈管.jpg",
+      "item": "木片便當盒",
+      "recycle": "否",
+      "remark": "請當一般垃圾, 焚化處理。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/71/223 日光燈管.jpg",
+      "item": "木音箱",
+      "recycle": "否",
+      "remark": "主要由木頭組成，複合性材質不回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/168/372 毛巾.jpg",
+      "item": "毛巾",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/19/100 水果網袋.jpg",
+      "item": "水果網袋",
+      "recycle": "是",
+      "remark": "回收前請先去除內容物，鋪平或打結收集成一袋回收(不含鋁箔、紙等複合性材質包裝紙)。回收後可製成為工具箱、花盆等塑膠製品。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/244/水銀燈泡.jpg",
+      "item": "水銀燈泡",
+      "recycle": "否",
+      "remark": "不回收，請產出此廢棄物的單位，自行委託公民營清除處理機構處理。（請不要交清潔隊資源回收車）"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/116/322 水銀體溫計.jpg",
+      "item": "水銀體溫計",
+      "recycle": "是",
+      "remark": "測量人體溫度所使用的水銀體溫計，不含實驗室用的。請使用原包裝盒打包後，特別交付本局資源回收車隨車人員。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/135/410 牙線.jpg",
+      "item": "牙線",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/134/409 牙籤.jpg",
+      "item": "牙籤",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/23/113 牛奶瓶.jpg",
+      "item": "牛奶瓶",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/150/209 主機板.png",
+      "item": "主機板",
+      "recycle": "是",
+      "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/45/161 充電電池.jpg",
+      "item": "充電電池",
+      "recycle": "是",
+      "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/115/318.包包.JPG",
+      "item": "包包",
+      "recycle": "是",
+      "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/40/156 包裝用保麗龍.jpg",
+      "item": "包裝用保麗龍",
+      "recycle": "是",
+      "remark": "工業保麗龍部份，應由相關業者自行集中送往回收商處理。一般家戶零星的包裝用保麗龍，回收前請先去除內容物、膠帶、木材、鐵釘等非保麗龍材質之物品，裝成一袋交由本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/146/21 包裝紙箱 (非瓦楞紙板).png",
+      "item": "包裝紙箱 (非瓦楞紙板)",
+      "recycle": "是",
+      "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/231/000001_1478355855-01-01.jpg",
+      "item": "可伸縮矽膠餐具(袋)",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/77/236 舊衣.jpg",
+      "item": "外套",
+      "recycle": "是",
+      "remark": "以可穿著為主，貼身衣物因衛生考量，無須回收。回收前請先清洗乾淨勿弄溼，並打包後裝成一袋，交由本局清潔隊之資源回收車、或洽相關回收團體回收。如果是八成新且乾淨的舊衣，也可撥打本局二手物品回收專線04-22294025，約定時間派專人回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/140/371.布偶.JPG",
+      "item": "布偶",
+      "recycle": "是",
+      "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/131/375 布條.png",
+      "item": "布條",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/68/205 平板電腦.jpg",
+      "item": "平板電腦",
+      "recycle": "是",
+      "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/14/83 平面玻璃.jpg",
+      "item": "平面玻璃",
+      "recycle": "是",
+      "remark": "如有破損，請收集後以堅固的容器盛裝標示，並特別交付隨車人員，以免清潔隊員受傷。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/224/打火機.jpg",
+      "item": "打火機",
+      "recycle": "否",
+      "remark": "複合材質，不回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/224/打火機.jpg",
+      "item": "打包帶",
+      "recycle": "是",
+      "remark": "打包帶的材質為PP塑膠類, 回收前, 請先去除鐵扣，讓材質單一化，打包帶和塑膠袋一起回收。以大袋裝小袋方式回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/89/267 未烹煮之肉類.jpg",
+      "item": "未烹煮之肉類",
+      "recycle": "否",
+      "remark": "易腐敗不宜回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/12/70 瓦斯鋼瓶.png",
+      "item": "瓦斯鋼瓶(瓦斯桶)",
+      "recycle": "是",
+      "remark": "空瓦斯鋼瓶屬於壓力容器，且用後仍可能殘留瓦斯，故不在清潔隊回收範圍內，宜交由瓦斯行處理。故瓦斯鋼瓶回收請洽臺中市液化氣體燃料商業同業公會04-2526-8732或內政部認證瓦斯檢驗場，南投：049-2528390(巨洲)、沙鹿：04-25224505(今元由) 協調瓦斯行到府回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/214/瓦斯罐.jpg",
+      "item": "瓦斯罐",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/230/甘蔗纖維吸管_.jpg",
+      "item": "甘蔗纖維吸管",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/230/甘蔗纖維吸管_.jpg",
+      "item": "白板",
+      "recycle": "否",
+      "remark": "複合性材質, 不回收"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/74/231 白熾燈泡.jpg",
+      "item": "白熾燈泡【燈帽直徑為2.6公分以上】",
+      "recycle": "是",
+      "remark": "白熾燈泡限燈帽直徑為2.6公分以上。因燈管中含有水銀蒸氣，吸入會危害人體健康，所以廢舊燈管應注意不要打破，回收前應套袋妥善打包，再交由本局清潔隊之資源回收車回收或送至原販賣點及直接送至回收商處。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/239/250259-ecom-retina-01.png.adapt.450.450.jpg",
+      "item": "皮帶",
+      "recycle": "否",
+      "remark": "皮製品(不論真假皮)不可回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/239/250259-ecom-retina-01.png.adapt.450.450.jpg",
+      "item": "石棉瓦",
+      "recycle": "否",
+      "remark": "石棉瓦不回收，但也不能丟垃圾車焚化，家戶產生少量石棉瓦可請清潔隊約定清運; 事業產生大量石棉瓦要自行委託民間清除處理機構清理。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/24/115-118 光碟片、CD、VCD、DVD.jpg",
+      "item": "光碟片",
+      "recycle": "是",
+      "remark": "不含外殼。請收集後裝成一袋交付回收。外殼若為塑膠材質可另行回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/3/14 再生紙.jpg",
+      "item": "再生紙",
+      "recycle": "是",
+      "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/38/154 冰品盒.png",
+      "item": "冰品盒",
+      "recycle": "是",
+      "remark": "工業保麗龍部份，應由相關業者自行集中送往回收商處理。一般家戶零星的包裝用保麗龍，回收前請先去除內容物、膠帶、木材、鐵釘等非保麗龍材質之物品，裝成一袋交由本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/69/214 印表機.jpg",
+      "item": "印表機",
+      "recycle": "是",
+      "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/144/名片.png",
+      "item": "名片",
+      "recycle": "是",
+      "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/101/recycle_oil.png",
+      "item": "回鍋油",
+      "recycle": "是",
+      "remark": "請自備容器盛裝蓋緊，再交付環保局資源回收車清運。(可使用原商品容器、寶特瓶或塑膠空瓶盛裝)。機油、潤滑油並非廢食用油回收種類，不可以和廢食用油混合回收，應交由機車行、汽車修配業或加油站回收。家戶回收後可交由環保局資源回收車清運，而事業單位或攤商所產生的廢食用油，也可交由本局資源回收車或委託合法回收管道做回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/30/140 安全帽.png",
+      "item": "安全帽",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/203/竹蓆草蓆.jpg",
+      "item": "竹蓆(草蓆)",
+      "recycle": "否",
+      "remark": "為不可回收物品，可當成垃圾交由垃圾車。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/208/米袋.jpg",
+      "item": "米袋",
+      "recycle": "否",
+      "remark": "米袋，含尼龍複合材料(PE+尼龍複合材)不回收"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/242/4550002625467_400.jpg",
+      "item": "耳罩",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/98/291 自行車.jpg",
+      "item": "自行車",
+      "recycle": "是",
+      "remark": "民眾須事先與區清潔隊約定時間回收。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。民眾如有廢棄或不再使用之自行車，可下載「自行車輛權利放棄切結書」，填寫後再與本局各區清潔隊聯繫回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/189/mechanical_pencil.jpg",
+      "item": "自動鉛筆",
+      "recycle": "否",
+      "remark": "屬複合性材質不回收"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/54/174 行動電源.jpg",
+      "item": "行動電源",
+      "recycle": "是",
+      "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/75/234 行動電話.jpg",
+      "item": "行動電話",
+      "recycle": "是",
+      "remark": "請交資源回收車隨車人員。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/76/235 行動電話充電器.jpg",
+      "item": "行動電話充電器",
+      "recycle": "是",
+      "remark": "請交資源回收車隨車人員。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/59/179 冷氣機.jpg",
+      "item": "冷氣機",
+      "recycle": "是",
+      "remark": "可交由經銷商逆向回收或請先電洽本局清潔隊各區隊約定收運時間。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。請注意不要妨礙交通安全，及污染環境。如外觀良好且未喪失原功能，可利用跳蚤市場交流。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/202/保冷墊.jpg",
+      "item": "冷凝墊",
+      "recycle": "否",
+      "remark": "為複合性材質不回收，請當一般垃圾交由垃圾車。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/63/192 吹風機.jpg",
+      "item": "吹風機",
+      "recycle": "是",
+      "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/118/straw-2.jpg",
+      "item": "吸管",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/22/111 沙拉油瓶.jpg",
+      "item": "沙拉油瓶",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/212/汽車防撞保險桿.png",
+      "item": "汽車防撞保險桿",
+      "recycle": "否",
+      "remark": "汽車防撞桿、保險桿，內有纖維及橡膠材質等複合性材質，不回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/194/648064.png",
+      "item": "防曬乳",
+      "recycle": "是",
+      "remark": "回收前請先清除內容物，廢容器部分交由本局各區清潔隊資源回收車即可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/193/Emulsion.png",
+      "item": "乳液",
+      "recycle": "是",
+      "remark": "回收前請先清除內容物，廢容器部分交由本局各區清潔隊資源回收車即可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/127/364 抹布.png",
+      "item": "抹布",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/113/apparel.jpg",
+      "item": "服飾",
+      "recycle": "是",
+      "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/113/apparel.jpg",
+      "item": "枕頭",
+      "recycle": "否",
+      "remark": "請當垃圾處理，可丟入垃圾車載運。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/35/148 杯碗盤碟盒.jpg",
+      "item": "杯碗盤碟盒",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/162/Bubble_Tea_Cup.png",
+      "item": "泡沫紅茶杯",
+      "recycle": "是",
+      "remark": "回收前請先去除食物殘渣後，以水略加清洗瀝乾後交由本局清潔隊之資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/36/149 泡麵碗.png",
+      "item": "泡麵碗",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/205/泡麵袋家庭袋裝外包裝.jpg",
+      "item": "泡麵綜合包外層袋",
+      "recycle": "是",
+      "remark": "塑膠袋(不含鋁箔、紙等複合材質)，請於回收前先去除內容物，鋪平或打節收集成一袋，再交付本局資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/72/224 直管日光燈管.jpg",
+      "item": "直管日光燈管",
+      "recycle": "是",
+      "remark": "白熾燈泡限燈帽直徑為2.6公分以上。因燈管中含有水銀蒸氣，吸入會危害人體健康，所以廢舊燈管應注意不要打破，回收前應套袋妥善打包，再交由本局清潔隊之資源回收車回收或送至原販賣點及直接送至回收商處。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/105/304 花瓶.jpg",
+      "item": "花瓶",
+      "recycle": "是",
+      "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/180/papermoney.jpg",
+      "item": "金紙",
+      "recycle": "否",
+      "remark": "不回收。清明時節或廟宇，參與紙錢集中燒活動，可減少空氣污染。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/16/88 金屬釘書機.jpg",
+      "item": "金屬釘書機",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/17/90 金屬剪刀.jpg",
+      "item": "金屬剪刀",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/160/91 金屬湯匙.png",
+      "item": "金屬湯匙",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/132/399 雨衣.png",
+      "item": "雨衣",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/11/66 雨傘骨架.png",
+      "item": "雨傘骨架",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/191/rain_boots.jpg",
+      "item": "雨鞋",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/233/信用卡及磁扣.jpg",
+      "item": "信用卡及磁扣",
+      "recycle": "否",
+      "remark": "捷運用的1日券磁卡(扣)、信用卡均不能回收"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/218/便利貼.jpg",
+      "item": "便利貼",
+      "recycle": "否",
+      "remark": "複合材質紙類"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/158/04 便條紙.png",
+      "item": "便條紙",
+      "recycle": "是",
+      "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/225/保險箱.png",
+      "item": "保險箱",
+      "recycle": "否",
+      "remark": "不回收，保險箱灌有大量水泥，不易做不同材質分離，是屬於垃圾，不能焚化。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/37/152 保麗龍杯.jpg",
+      "item": "保麗龍杯",
+      "recycle": "是",
+      "remark": "保麗龍餐具(含杯碗盤盒)，請清除食物殘渣，簡單沖洗並瀝除水分，隨塑膠容器類一起交付環保局資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/222/蔬果包裝袋.jpg",
+      "item": "洗衣店套袋、蔬果包裝袋",
+      "recycle": "是",
+      "remark": "回收前請先去除內容物，鋪平或打結收集成一袋回收(不含鋁箔、紙等複合性材質包裝紙)。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/216/洗衣精補充包.jpg",
+      "item": "洗衣精補充包(袋)",
+      "recycle": "否",
+      "remark": "洗衣精補充包內有(鋁塑複合材)"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/58/178 洗衣機.jpg",
+      "item": "洗衣機",
+      "recycle": "是",
+      "remark": "可交由經銷商逆向回收或請先電洽本局清潔隊各區隊約定收運時間。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。請注意不要妨礙交通安全，及污染環境。如外觀良好且未喪失原功能，可利用跳蚤市場交流。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/15/85 玻璃容器.jpg",
+      "item": "玻璃容器",
+      "recycle": "是",
+      "remark": "請去除瓶蓋、吸管、請先倒空容器內之殘餘物，用水略為沖洗後回收。如有破損，請收集後以堅固的容器盛裝標示，並特別交付資源回收車人員，以免清潔隊員受傷。若未破碎，則可送至量販店、超級市場、連鎖便利商店或資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/232/59034a3f0f915_610.jpg",
+      "item": "相片紙",
+      "recycle": "否",
+      "remark": "相片紙(其屬複合性材質含有顯影劑)屬不可回收之一般廢棄物，可交由本市清潔隊垃圾車處理即可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/122/337.砂紙.JPG",
+      "item": "砂紙",
+      "recycle": "否",
+      "remark": "打包後交環保局垃圾車清除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/122/337.砂紙.JPG",
+      "item": "美耐皿餐具",
+      "recycle": "否",
+      "remark": "一般自助餐等使用的可重複清洗餐具，類似塑膠材質，但美耐皿餐具不能回收。因為美耐皿餐具是以「三聚氰胺甲醛樹脂（melamine-formaldehyde resin）」製成。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/102/298 食用油.jpg",
+      "item": "食用油",
+      "recycle": "是",
+      "remark": "請自備容器盛裝蓋緊，再交付環保局資源回收車清運。(可使用原商品容器、寶特瓶或塑膠空瓶盛裝)。機油、潤滑油並非廢食用油回收種類，不可以和廢食用油混合回收，應交由機車行、汽車修配業或加油站回收。家戶回收後可交由環保局資源回收車清運，而事業單位或攤商所產生的廢食用油，也可交由本局資源回收車或委託合法回收管道做回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/229/玉山-小-包袱-彩色底.jpg",
+      "item": "食物袋",
+      "recycle": "否",
+      "remark": "Pockeat食物袋, 外袋的材料是聚脂纖維Polyester，內袋是可熱塑性橡膠TPU。 不能回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/215/食品包裝袋.jpg",
+      "item": "食品包裝袋",
+      "recycle": "否",
+      "remark": "食品包裝袋內為鋁塑複合材"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/87/256 香蕉皮.jpg",
+      "item": "香蕉皮",
+      "recycle": "是",
+      "remark": "玉米殼、筍殼除外。民眾回收廚餘前，請瀝除水分後，自備適當容器（鍋、碗、瓢、盆、桶）盛裝，倒入垃圾車後加掛的廚餘回收桶或社區內之廚餘回收桶內。如使用塑膠袋盛裝廚餘，請倒出廚餘回收後，髒汙塑膠袋可丟入垃圾車內。塑膠袋、衛生紙、竹筷、牙籤、咖啡包(渣)、茶葉包(渣)及中藥包(材)、硬殼類(榴槤皮、椰子、貝殼)等雜質，不可丟入廚餘回收桶。廢食用油請勿倒入廚餘回收桶，請另外以容器盛裝交付資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/169/1070118.png",
+      "item": "原子筆的塑膠外殼",
+      "recycle": "是",
+      "remark": "若包含複合材料或軟襯則不可回收，請收集一束後再交付回收，回收前筆芯請先去除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/111/313 家飾品.jpg",
+      "item": "家飾品",
+      "recycle": "是",
+      "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/192/Suitcase.png",
+      "item": "旅行箱",
+      "recycle": "否",
+      "remark": "家中閒置欲丟棄之旅行箱，如外觀完整且可使用者，歡迎可撥打資源回收專線04-22294025預約回收，若旅行箱已破損不堪使用者以一般垃圾處理。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/2/12 書籍.jpg",
+      "item": "書籍",
+      "recycle": "是",
+      "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/209/氣泡紙.jpg",
+      "item": "氣泡紙",
+      "recycle": "是",
+      "remark": "回收前請先去除內容物、表面髒汙，收集成一袋回收(不含鋁箔、紙等複合性材質包裝紙)。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/166/196 烘碗機.png",
+      "item": "烘碗機",
+      "recycle": "是",
+      "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/64/193 烤箱.jpg",
+      "item": "烤箱",
+      "recycle": "是",
+      "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/200/ly053_.jpg",
+      "item": "特殊規格大型輪胎",
+      "recycle": "是",
+      "remark": "請業者自行依市場機制回收或洽廢輪胎處理廠。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/108/309 破馬桶.jpg",
+      "item": "破馬桶",
+      "recycle": "是",
+      "remark": "民眾須事先與區清潔隊約定時間回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/103/302 破碗盤.jpg",
+      "item": "破碗盤",
+      "recycle": "是",
+      "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/197/5688627758403.png",
+      "item": "粉底液",
+      "recycle": "否",
+      "remark": "為不可回收物，以一般廢棄物交付清潔隊沿街收運垃圾車即可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/119/332 紙尿片I.png",
+      "item": "紙尿片",
+      "recycle": "否",
+      "remark": "打包後交環保局垃圾車清除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/142/332 紙尿片I.png",
+      "item": "紙尿布",
+      "recycle": "否",
+      "remark": "打包後交環保局垃圾車清除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/141/332 紙尿片III.jpg",
+      "item": "紙尿褲",
+      "recycle": "否",
+      "remark": "打包後交環保局垃圾車清除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/6/23 紙容器.jpg",
+      "item": "紙容器",
+      "recycle": "是",
+      "remark": "紙容器不能和紙張、報紙一樣，當成紙類廢棄物，而是要分開回收，因為兩者在回收場後端的處理流程完全不同。請先清除內容物，簡單清洗或使用餐巾紙擦拭油污，瀝除水分，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/145/20.紙箱.png",
+      "item": "紙箱",
+      "recycle": "是",
+      "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/8/30 紙餐具.jpg",
+      "item": "紙餐具",
+      "recycle": "是",
+      "remark": "紙容器不能和紙張、報紙一樣，當成紙類廢棄物，而是要分開回收，因為兩者在回收場後端的處理流程完全不同。飲料喝完後，取出吸管，略加沖洗，瀝除水分，將其壓扁，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/94/茶葉渣.png",
+      "item": "茶渣",
+      "recycle": "是",
+      "remark": "請勿放入養豬用廚餘回收桶。本局目前部分區清潔隊未回收堆肥廚餘，有興趣推動自主性廚回收堆肥的社區學校機關團體，請洽資源回收專線：04-22294025。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/81/247 蚊香.jpg",
+      "item": "蚊香",
+      "recycle": "是",
+      "remark": "內容物的蚊香做為一般垃圾，外部的鐵容器需回收"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/143/303 酒瓶.jpg",
+      "item": "酒瓶",
+      "recycle": "是",
+      "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/227/馬桶蓋.jpg",
+      "item": "馬桶蓋及其座墊",
+      "recycle": "是",
+      "remark": "屬純pp或PE材質可以回收，混料屬複合材質（較硬的）無回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/217/乾淨透明包裝袋.jpg",
+      "item": "乾淨透明包裝袋",
+      "recycle": "是",
+      "remark": "回收前請先去除內容物，鋪平或打結收集成一袋回收(不含鋁箔、紙等複合性材質包裝紙)。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/44/160 乾電池.jpg",
+      "item": "乾電池",
+      "recycle": "是",
+      "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/84/250 殺蟑劑.jpg",
+      "item": "殺蟑劑",
+      "recycle": "是",
+      "remark": "農藥瓶罐需使用完畢，不要有剩餘液體。以三沖三洗方式，將農藥瓶罐沖洗乾淨，並將清洗液倒入噴灑器內，重複噴灑利用。清除內容物後並打包成一袋，交由農會或農藥販賣業者回收點回收(農業局輔導設置，清潔隊協助清運)，或清潔隊固定回收點。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/82/248 殺蟲劑.jpg",
+      "item": "殺蟲劑",
+      "recycle": "是",
+      "remark": "使用完畢後，清除內容物，略加清洗後，再交給資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/190/bottle_cap.jpg",
+      "item": "瓶蓋",
+      "recycle": "是",
+      "remark": "塑膠瓶蓋可以回收，建議收集一袋再交付回收車回收。鐵製瓶蓋也可以回收，但請將內層襯墊清除後再收集一袋，交付回收車回收。回收前請注意清除內容物、污漬。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/195/make222.png",
+      "item": "眼影",
+      "recycle": "否",
+      "remark": "為不可回收物，以一般廢棄物交付清潔隊沿街收運垃圾車即可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/91/271 蛋殼.jpg",
+      "item": "蛋殼",
+      "recycle": "是",
+      "remark": "請勿放入養豬用廚餘回收桶。本局目前部分區清潔隊未回收堆肥廚餘，有興趣推動自主性廚回收堆肥的社區學校機關團體，請洽資源回收專線：04-22294025。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/39/155 蛋糕盒.jpg",
+      "item": "蛋糕盒",
+      "recycle": "是",
+      "remark": "工業保麗龍部份，應由相關業者自行集中送往回收商處理。一般家戶零星的包裝用保麗龍，回收前請先去除內容物、膠帶、木材、鐵釘等非保麗龍材質之物品，裝成一袋交由本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/86/255 軟質果皮.jpg",
+      "item": "軟質果皮",
+      "recycle": "是",
+      "remark": "玉米殼、筍殼除外。民眾回收廚餘前，請瀝除水分後，自備適當容器（鍋、碗、瓢、盆、桶）盛裝，倒入垃圾車後加掛的廚餘回收桶或社區內之廚餘回收桶內。如使用塑膠袋盛裝廚餘，請倒出廚餘回收後，髒汙塑膠袋可丟入垃圾車內。塑膠袋、衛生紙、竹筷、牙籤、咖啡包(渣)、茶葉包(渣)及中藥包(材)、硬殼類(榴槤皮、椰子、貝殼)等雜質，不可丟入廚餘回收桶。廢食用油請勿倒入廚餘回收桶，請另外以容器盛裝交付資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/152/300 陶瓷食器.png",
+      "item": "陶瓷食器",
+      "recycle": "是",
+      "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/153/301 陶瓷容器.png",
+      "item": "陶瓷容器",
+      "recycle": "是",
+      "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/240/MN40333.jpg",
+      "item": "圍巾",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/130/370.圍裙.JPG",
+      "item": "圍裙",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/95/288 堪用家具.jpg",
+      "item": "堪用家具",
+      "recycle": "是",
+      "remark": "民眾須事先與區清潔隊約定時間回收。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。民眾如有廢棄或不再使用之自行車，可下載「自行車輛權利放棄切結書」，填寫後再與本局各區清潔隊聯繫回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/5/17 報紙.jpg",
+      "item": "報紙",
+      "recycle": "是",
+      "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/241/93a181b9-4e3e-4b2b-83fd-35bb96b254c6_8493551.jpg",
+      "item": "帽子",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/125/355 棉被.png",
+      "item": "棉被",
+      "recycle": "否",
+      "remark": "請當垃圾處理, 可丟入垃圾車載運。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/221/棉被套袋.jpg",
+      "item": "棉被套袋",
+      "recycle": "否",
+      "remark": "複合材質不回收，請交由垃圾車清運。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/128/365 窗簾.png",
+      "item": "窗簾",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/136/413 筆.png",
+      "item": "筆",
+      "recycle": "否",
+      "remark": "屬複合性材質不回收，但原子筆殼如未有軟襯屬塑膠部份可回收，請收集一束後在交付回收。回收前筆蕊請先去除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/0/1 筆記書紙.jpg",
+      "item": "筆記書紙",
+      "recycle": "是",
+      "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/49/164-165 錳鋅、筒型鹼錳電池.jpg",
+      "item": "筒型鹼錳電池",
+      "recycle": "是",
+      "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/109/310-311 絨毛、塑膠玩具.jpg",
+      "item": "絨毛玩具",
+      "recycle": "是",
+      "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/50/166 鈕釦型電池.jpg",
+      "item": "鈕釦型電池",
+      "recycle": "是",
+      "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/174/168 鈕扣型鋰電池.jpg",
+      "item": "鈕釦型鋰電池",
+      "recycle": "是",
+      "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/62/189 飲水機.jpg",
+      "item": "飲水機",
+      "recycle": "是",
+      "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/62/189 飲水機.jpg",
+      "item": "飲料杯",
+      "recycle": "是",
+      "remark": "不管是紙、塑膠(含保麗龍)、生物可分解材質的飲料杯，均可以回收。回收前請先去除吸管、封膜，並清除內容物後再回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/219/紙盒包.jpg",
+      "item": "飲料紙盒包",
+      "recycle": "是",
+      "remark": "不能和紙張、報紙一樣，當成紙類廢棄物，而是要分開回收，因為兩者在回收場後端的處理流程完全不同。飲料喝完後，取出吸管，略加沖洗，瀝除水分，將其壓扁，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/66/199.傳真機.png",
+      "item": "傳真機",
+      "recycle": "是",
+      "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/163/塑膠水杯.jpg",
+      "item": "塑膠水杯",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/110/310-311 絨毛、塑膠玩具.jpg",
+      "item": "塑膠玩具",
+      "recycle": "是",
+      "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/28/128.塑膠花盆.JPG",
+      "item": "塑膠花盆",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/148/104 塑膠容器.png",
+      "item": "塑膠容器",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/210/塑膠盒.jpg",
+      "item": "塑膠盒",
+      "recycle": "是",
+      "remark": "回收前請先清空內容物，以水略加清洗瀝乾後回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/80/245 塑膠製農藥容器.jpg",
+      "item": "塑膠製農藥容器",
+      "recycle": "是",
+      "remark": "農藥瓶罐需使用完畢，不要有剩餘液體。以三沖三洗方式，將農藥瓶罐沖洗乾淨，並將清洗液倒入噴灑器內，重複噴灑利用。清除內容物後並打包成一袋，交由農會或農藥販賣業者回收點回收(農業局輔導設置，清潔隊協助清運)，或清潔隊固定回收點。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/34/146 塑膠餐盤.jpg",
+      "item": "塑膠餐盤",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/33/145 塑膠類免洗餐具.jpg",
+      "item": "塑膠類免洗餐具",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/92/274 椰子殼.jpg",
+      "item": "椰子殼",
+      "recycle": "是",
+      "remark": "請勿放入養豬用廚餘回收桶。本局目前部分區清潔隊未回收堆肥廚餘，有興趣推動自主性廚回收堆肥的社區學校機關團體，請洽資源回收專線：04-22294025。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/213/滅火器.jpg",
+      "item": "滅火器",
+      "recycle": "否",
+      "remark": "滅火器應交由原販賣業者逆向回收，或在安全無虞之狀況下，先行卸除氣體壓力，再交付回收，以免造成危險。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/138/426 滑鼠.png",
+      "item": "滑鼠",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/139/427 滑鼠墊.JPG",
+      "item": "滑鼠墊",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/237/IMG_Category-yoga_mat.jpg",
+      "item": "瑜珈墊",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/196/mascara.png",
+      "item": "睫毛膏",
+      "recycle": "否",
+      "remark": "為不可回收物，以一般廢棄物交付清潔隊沿街收運垃圾車即可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/133/408.筷子.JPG",
+      "item": "筷子",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/99/292 腳踏車.jpg",
+      "item": "腳踏車",
+      "recycle": "是",
+      "remark": "民眾須事先與區清潔隊約定時間回收。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。民眾如有廢棄或不再使用之自行車，可下載「自行車輛權利放棄切結書」，填寫後再與本局各區清潔隊聯繫回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/171/78(無原編).過期藥丸(缺藥水).png",
+      "item": "過期藥丸",
+      "recycle": "否",
+      "remark": "過期藥丸、藥水以一般垃圾處理，過期麻醉藥及癌症藥物請送回原開立醫院、藥局"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/55/175 鉛蓄電池.jpg",
+      "item": "鉛蓄電池",
+      "recycle": "是",
+      "remark": "汽、機車之鉛蓄電池可交由本局資源回收車回收或交由汽機車行或保修廠逆向回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/175/339 電子發票.jpg",
+      "item": "電子發票",
+      "recycle": "否",
+      "remark": "電子發票, 係熱感應紙印製，不回收，請交環保局垃圾車清除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/57/177 電冰箱.jpg",
+      "item": "電冰箱",
+      "recycle": "是",
+      "remark": "可交由經銷商逆向回收或請先電洽本局清潔隊各區隊約定收運時間。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。請注意不要妨礙交通安全，及污染環境。如外觀良好且未喪失原功能，可利用跳蚤市場交流。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/165/194 電風扇.jpg",
+      "item": "電風扇",
+      "recycle": "是",
+      "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/56/176 電視機.jpg",
+      "item": "電視機",
+      "recycle": "是",
+      "remark": "可交由經銷商逆向回收或請先電洽本局清潔隊各區隊約定收運時間。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。請注意不要妨礙交通安全，及污染環境。如外觀良好且未喪失原功能，可利用跳蚤市場交流。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/204/oldfhair.png",
+      "item": "電腦椅",
+      "recycle": "是",
+      "remark": "民眾須事先與區清潔隊約定時間回收。家戶產生之巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/60/185 電熱水瓶.jpg",
+      "item": "電熱水瓶",
+      "recycle": "是",
+      "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/223/電線.jpg",
+      "item": "電線",
+      "recycle": "是",
+      "remark": "包覆銅線電線、廢電線"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/61/188 電鍋.jpg",
+      "item": "電鍋",
+      "recycle": "是",
+      "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/83/249 漂白水容器.jpg",
+      "item": "漂白水容器",
+      "recycle": "是",
+      "remark": "農藥瓶罐需使用完畢，不要有剩餘液體。以三沖三洗方式，將農藥瓶罐沖洗乾淨，並將清洗液倒入噴灑器內，重複噴灑利用。清除內容物後並打包成一袋，交由農會或農藥販賣業者回收點回收(農業局輔導設置，清潔隊協助清運)，或清潔隊固定回收點。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/106/305 磁磚2.png",
+      "item": "磁磚",
+      "recycle": "是",
+      "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/156/383 網路線.png",
+      "item": "網路線",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/93/277 鳳梨頭.jpg",
+      "item": "鳳梨頭",
+      "recycle": "是",
+      "remark": "請勿放入養豬用廚餘回收桶。本局目前部分區清潔隊未回收堆肥廚餘，有興趣推動自主性廚回收堆肥的社區學校機關團體，請洽資源回收專線：04-22294025。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/211/廢包裝用塑膠.jpg",
+      "item": "廢包裝用發泡塑膠",
+      "recycle": "是",
+      "remark": "回收前請先去除膠帶等其他材質，交由資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/96/289 廢沙發.jpg",
+      "item": "廢沙發",
+      "recycle": "是",
+      "remark": "民眾須事先與區清潔隊約定時間回收。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。民眾如有廢棄或不再使用之自行車，可下載「自行車輛權利放棄切結書」，填寫後再與本局各區清潔隊聯繫回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/41/157-159 廢汽車輪胎、廢機車輪胎、廢腳踏車輪胎.jpg",
+      "item": "廢汽車輪胎",
+      "recycle": "是",
+      "remark": "請洽廢輪胎處理廠。20條以下的廢棄汽車輪胎，請事先洽詢各區清潔隊，由業者自行載運至本局暫置場。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/43/157-159 廢汽車輪胎、廢機車輪胎、廢腳踏車輪胎.jpg",
+      "item": "廢腳踏車輪胎",
+      "recycle": "是",
+      "remark": "腳踏車胎不限數量，均可交由環保局沿街收運之資源回收車。倘若資源回收車無空間載運，則可與清潔隊預約以專車收運。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/42/158 廢機車輪胎.jpg",
+      "item": "廢機車輪胎",
+      "recycle": "是",
+      "remark": "機車胎5個以下，可交由環保局沿街收運之資源回收車。機車胎5個以上或資源回收車無空間載運，則可與清潔隊預約以專車收運。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/85/71(無原編).熟食類廚餘.JPG",
+      "item": "廚餘",
+      "recycle": "是",
+      "remark": "剩飯菜、未烹煮之肉類、罐頭、不再食用之食品食材等皆可回收，玉米殼、筍殼除外。民眾回收廚餘前，請瀝除水分後，自備適當容器（鍋、碗、瓢、盆、桶）盛裝，倒入垃圾車後加掛的廚餘回收桶或社區內之廚餘回收桶內。如使用塑膠袋盛裝廚餘，請倒出廚餘回收後，髒汙塑膠袋可丟入垃圾車內。塑膠袋、衛生紙、竹筷、牙籤、咖啡包(渣)、茶葉包(渣)及中藥包(材)、硬殼類(榴槤皮、椰子、貝殼)等雜質，不可丟入廚餘回收桶。廢食用油請勿倒入廚餘回收桶，請另外以容器盛裝交付資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/243/587531523_979.jpg",
+      "item": "廣告中空板",
+      "recycle": "否",
+      "remark": "塑膠複合材質.沒有回收"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/97/290 彈簧床墊.jpg",
+      "item": "彈簧床墊",
+      "recycle": "是",
+      "remark": "民眾須事先與區清潔隊約定時間回收。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點。清潔隊回收後，拆除回收床墊內的廢鐵(彈簧)。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/164/181 影印機.jpg",
+      "item": "影印機",
+      "recycle": "是",
+      "remark": "可交由經銷商逆向回收或請先電洽本局清潔隊各區隊約定收運時間。家戶巨大垃圾如位於二樓以上或地下樓層時，應於交付清除前自行搬運至地面樓層及收運車可達之地點，並應先予拆毀以縮減體積。請注意不要妨礙交通安全，及污染環境。如外觀良好且未喪失原功能，可利用跳蚤市場交流。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/67/200 影音光碟機.jpg",
+      "item": "影音光碟機",
+      "recycle": "是",
+      "remark": "交由本局各區清潔隊資源回收車即可，或交由各資源回收場回收。如屬外觀完整功能正常者，可洽本局二手物銀行回收(04-22294025)，或於跳蚤市場自行販售。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/220/標籤貼紙.jpg",
+      "item": "標籤貼紙",
+      "recycle": "否",
+      "remark": "複合材質，不回收，請交環保局垃圾車清除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/100/296 潤滑油.jpg",
+      "item": "潤滑油",
+      "recycle": "是",
+      "remark": "請交由機車行、汽車維修廠及加油站等所設置之廢潤滑油回收站進行回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/198/Conditioner.png",
+      "item": "潤髮乳",
+      "recycle": "是",
+      "remark": "回收前請先清除內容物，廢容器部分交由本局各區清潔隊資源回收車即可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/173/71(無原編).熟食類廚餘.JPG",
+      "item": "熟食類廚餘",
+      "recycle": "是",
+      "remark": "剩飯菜、未烹煮之肉類、罐頭、不再食用之食品食材等皆可回收。民眾回收廚餘前，請瀝除水分後，自備適當容器（鍋、碗、瓢、盆、桶）盛裝，倒入垃圾車後加掛的廚餘回收桶或社區內之廚餘回收桶內。不可將塑膠袋、衛生紙、竹筷、牙籤、咖啡包(渣)、茶葉包(渣)、中藥包(材)、硬殼類(榴槤皮、椰子、貝殼)等雜質類丟入廚餘回收桶內。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/201/Hotsensorpaper.jpg",
+      "item": "熱感應紙",
+      "recycle": "否",
+      "remark": "熱感應紙，不回收，請交環保局垃圾車清除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/29/131 膠水瓶.jpg",
+      "item": "膠水瓶",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/228/蓮蓬頭1-01.jpg",
+      "item": "蓮蓬頭",
+      "recycle": "是",
+      "remark": "塑膠蓮蓬頭為硬塑膠屬單一材質可回收, 但若為塑膠鍍金屬則屬複合材質不回收，另管線一般為含紗或部分金屬無法分離的複合材質不回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/120/333 衛生紙.png",
+      "item": "衛生紙",
+      "recycle": "否",
+      "remark": "打包後交環保局垃圾車清除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/121/335.衛生棉.JPG",
+      "item": "衛生棉",
+      "recycle": "否",
+      "remark": "打包後交環保局垃圾車清除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/207/衛生棉外包裝袋.jpg",
+      "item": "衛生棉外包裝袋",
+      "recycle": "是",
+      "remark": "塑膠袋(不含鋁箔、紙等複合材質)，請於回收前先去除內容物，鋪平或打節收集成一袋，再交付本局資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/123/347.複寫紙.png",
+      "item": "複寫紙",
+      "recycle": "否",
+      "remark": "打包後交環保局垃圾車清除。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/124/353 鋁箔、紙等複合性材質塑膠袋.jpg",
+      "item": "鋁箔、紙等複合性材質塑膠袋",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/7/25 鋁箔包.jpg",
+      "item": "鋁箔包",
+      "recycle": "是",
+      "remark": "紙容器不能和紙張、報紙一樣，當成紙類廢棄物，而是要分開回收，因為兩者在回收場後端的處理流程完全不同。飲料喝完後，取出吸管，略加沖洗，瀝除水分，將其壓扁，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/13/72.鋁鍋.png",
+      "item": "鋁鍋",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/9/36 鋁鐵罐.jpg",
+      "item": "鋁鐵罐",
+      "recycle": "是",
+      "remark": "請先倒空容器內之殘餘物，用水略為沖洗，壓扁後回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/53/172 鋰電池.jpg",
+      "item": "鋰電池",
+      "recycle": "是",
+      "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/secondhand/index.asp",
+      "item": "鞋子",
+      "recycle": "是",
+      "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/157/114 養樂多瓶.png",
+      "item": "養樂多瓶",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/154/327 橡皮筋.png",
+      "item": "橡皮筋",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/137/414 橡皮擦.png",
+      "item": "橡皮擦",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/137/414 橡皮擦.png",
+      "item": "機車坐墊",
+      "recycle": "否",
+      "remark": "由人工塑膠皮、泡綿等組成，不回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/137/414 橡皮擦.png",
+      "item": "機車車殼",
+      "recycle": "否",
+      "remark": "大都屬為ABS材質，目前無回收去化管道，且非屬公告應回收項目，故可交由垃圾車處理."
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/151/computerMachine.jpg",
+      "item": "機殼",
+      "recycle": "是",
+      "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/107/306 磚頭.png",
+      "item": "磚頭",
+      "recycle": "是",
+      "remark": "少量廢棄陶、瓷類食器及容器或廢棄磚、瓦、陶、瓷類廢棄物或廢木料回收前請裝成一袋，交由本局清潔隊之資源回收車或回收點回收。大量廢棄磚、瓦、陶、瓷類廢棄物或廢木材應先提出申請並經同意後由清潔隊協助回收。回收前磚、瓦、陶、瓷類等應分類裝袋，廢木材須自行裁切使其符合清潔隊清運要求，且應拔除釘子或會造成清潔人員受傷之物質，並加以綑綁或裝袋。且嚴禁混雜一般垃圾及其他紙類、塑膠類、燈管等資源垃圾。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/149/207 螢幕.png",
+      "item": "螢幕",
+      "recycle": "是",
+      "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/79/239.褲子.JPG",
+      "item": "褲子",
+      "recycle": "是",
+      "remark": "以可穿著為主，貼身衣物因衛生考量，無須回收。回收前請先清洗乾淨勿弄溼，並打包後裝成一袋，交由本局清潔隊之資源回收車、或洽相關回收團體回收。如果是八成新且乾淨的舊衣，也可撥打本局二手物品回收專線04-22294025，約定時間派專人回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/48/164-165 錳鋅、筒型鹼錳電池.jpg",
+      "item": "錳鋅電池",
+      "recycle": "是",
+      "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/32/144 錄音帶.jpg",
+      "item": "錄音帶",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/31/143 錄影帶.jpg",
+      "item": "錄影帶",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/112/315 餐具（杯碗盤碟）.jpg",
+      "item": "餐具(杯碗盤碟)",
+      "recycle": "是",
+      "remark": "民眾可將外觀完整乾淨、使用功能正常之二手物品分類打包後逕送二手物品展售中心或二手物銀行巡迴服務地點回收，或撥打二手物品回收專線：04-22294025，本局將派專車至貴府收取，另設置『舊情綿綿網站』（http://recycle.epb.taichung.gov.tw/secondhand/index.asp）供民眾上網選購，讓您的舊愛變成大家的新歡，促進資源物回收再利用！"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/206/濕紙巾外包裝袋.jpg",
+      "item": "濕紙巾外包裝袋",
+      "recycle": "是",
+      "remark": "(彩色軟袋)塑膠袋(不含鋁箔、紙等複合材質)，請於回收前先去除內容物，鋪平或打節收集成一袋，再交付本局資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/73/226 螺旋日光燈管.jpg",
+      "item": "螺旋日光燈管",
+      "recycle": "是",
+      "remark": "白熾燈泡限燈帽直徑為2.6公分以上。因燈管中含有水銀蒸氣，吸入會危害人體健康，所以廢舊燈管應注意不要打破，回收前應套袋妥善打包，再交由本局清潔隊之資源回收車回收或送至原販賣點及直接送至回收商處。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/4/16 購物紙袋.jpg",
+      "item": "購物紙袋",
+      "recycle": "是",
+      "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/70/218 鍵盤.jpg",
+      "item": "鍵盤",
+      "recycle": "是",
+      "remark": "可交本局資源回收車回收或送至資訊商品販賣業者（如 NOVA 資訊廣場之服務台）處逆向回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/238/images.jpg",
+      "item": "舊衣",
+      "recycle": "是",
+      "remark": "簽名衣物、貼身衣物(睡衣.內衣褲.泳裝等)、皮衣褲(不論真假皮)、發霉.黃斑或汙漬異味、破鎖或洞洞設計，皆不可回收"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/226/舊鞋.jpg",
+      "item": "舊鞋",
+      "recycle": "否",
+      "remark": "如外觀髒汙明顯、破損、破舊，無法再使用的鞋子，將不列入回收範圍。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/52/171 鎳氫電池.jpg",
+      "item": "鎳氫電池",
+      "recycle": "是",
+      "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/46/162 鎳鎘電池.jpg",
+      "item": "鎳鎘電池",
+      "recycle": "是",
+      "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/1/11 雜誌.jpg",
+      "item": "雜誌",
+      "recycle": "是",
+      "remark": "先去除塑膠包覆封面、外封套、筆記本之塑膠線圈、膠帶、釘書針後將之鋪平壓扁，並以易於搬運的方式捆綁。報紙類及牛皮紙類請另外單獨分別綑綁，白紙類也最好能單獨分出，交由辦公室、社區學校、古物商、回收商或本局清潔隊之資源回收車或回收點回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/170/420 鏡子.png",
+      "item": "鏡子",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/21/110 礦泉水瓶II.jpg",
+      "item": "礦泉水瓶",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/88/259 蘋果皮2.jpg",
+      "item": "蘋果皮",
+      "recycle": "是",
+      "remark": "玉米殼、筍殼除外。民眾回收廚餘前，請瀝除水分後，自備適當容器（鍋、碗、瓢、盆、桶）盛裝，倒入垃圾車後加掛的廚餘回收桶或社區內之廚餘回收桶內。如使用塑膠袋盛裝廚餘，請倒出廚餘回收後，髒汙塑膠袋可丟入垃圾車內。塑膠袋、衛生紙、竹筷、牙籤、咖啡包(渣)、茶葉包(渣)及中藥包(材)、硬殼類(榴槤皮、椰子、貝殼)等雜質，不可丟入廚餘回收桶。廢食用油請勿倒入廚餘回收桶，請另外以容器盛裝交付資源回收車回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/117/323 蠟燭玻璃罐.png",
+      "item": "蠟燭玻璃罐",
+      "recycle": "是",
+      "remark": "請與其他資源物分開，交由本局清潔隊之資源回收車或回收點回收，以利工廠原型再利用。殘留的蠟燭可一併回收。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/126/357.襪子.JPG",
+      "item": "襪子",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/155/348 護貝紙.jpg",
+      "item": "護貝紙",
+      "recycle": "否",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/199/Conditioner.png",
+      "item": "護髮乳",
+      "recycle": "是",
+      "remark": "回收前請先清除內容物，廢容器部分交由本局各區清潔隊資源回收車即可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/147/49 鐵桶.jpg",
+      "item": "鐵桶",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/10/53.鐵鍋.JPG",
+      "item": "鐵鍋",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/159/54 鐵櫃.png",
+      "item": "鐵櫃",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/90/268 罐頭.jpg",
+      "item": "罐頭",
+      "recycle": "是",
+      "remark": "無說明"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/47/163 鹼性電池.jpg",
+      "item": "鹼性電池",
+      "recycle": "是",
+      "remark": "使用完畢之廢乾電池不要扔進垃圾桶！找一個空盒、空罐存放，累積到一定數量時，就可以送至量販店、超級市場、連鎖便利商店、交通場站便利商店業、連鎖清潔及化妝品零售店、無線通信器材零售店、攝影器材零售店等設有電池回收筒之集中回收點辦理回收，或是交由垃圾車或資源回收車亦可。"
+    },
+    {
+      "image": "http://recycle.epb.taichung.gov.tw/files/resource/161/93 鑰匙.jpg",
+      "item": "鑰匙",
+      "recycle": "是",
+      "remark": "無說明"
+    }
+  ]
+}
